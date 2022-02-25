@@ -1,0 +1,893 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More news from Rome, or, Magna Charta discoursed of between a poor man &amp; his wife as also a new font erected in the cathedral-church at Gloucester in October 1663, and consecrated by the reverend moderate bishop, Dr. William Nicolson ... : as also an assertion of Dr. William Warmstrey ... wherein he affirmeth that it is a lesser sin for a man to kill his father than to refrain coming to the divine service established in the Church of England ...</title>
+            <author>Wallis, Ralph, d. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 143 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67420</idno>
+            <idno type="STC">Wing W616</idno>
+            <idno type="STC">ESTC R15738</idno>
+            <idno type="EEBO-CITATION">13352251</idno>
+            <idno type="OCLC">ocm 13352251</idno>
+            <idno type="VID">99201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99201)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 402:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More news from Rome, or, Magna Charta discoursed of between a poor man &amp; his wife as also a new font erected in the cathedral-church at Gloucester in October 1663, and consecrated by the reverend moderate bishop, Dr. William Nicolson ... : as also an assertion of Dr. William Warmstrey ... wherein he affirmeth that it is a lesser sin for a man to kill his father than to refrain coming to the divine service established in the Church of England ...</title>
+                  <author>Wallis, Ralph, d. 1669.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at London for the author for the only benefit of his wife and children,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Anno. 1666, when time shall come.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An attack on Philanax Anglicus and the Church of England.</note>
+                  <note>Written by Ralph Wallis. Cf. DNB.</note>
+                  <note>Dedication signed: Sil Awl [anagram of Wallis].</note>
+                  <note>Another ed. has title: Or Magna Charta; more new from Rome: discoursed between a poor man &amp; his wife.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Janson, Henry, --  Sir, 1616 or 17-ca. 1684. --  Philanax Anglicus.</term>
+               <term>Church of England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99201:1" rendition="simple:additions"/>
+            <pb facs="tcp:99201:1"/>
+            <p>More News from Rome OR Magna Charta, Diſcourſed of between a Poor Man &amp; his Wife. AS ALSO, A New Font erected in the Cathedral-Church at <hi>Glouceſter,</hi> in <hi>October, 1663.</hi> and conſecrated by the Reverend mo<g ref="char:EOLhyphen"/>derate Biſhop, Dr. <hi>William Nicolſon,</hi> Angel of the ſaid Church, according to the account of that infamouſly fa<g ref="char:EOLhyphen"/>mous Man, Dr. <hi>Lee.</hi>
+            </p>
+            <p>AS ALSO, An Aſſertion of Dr. <hi>William Warmſtrey,</hi> Dean of <hi>Worceſter,</hi> wherein he affirmeth, that <hi>It is a leſſer ſin for a man to kill his Father, than to refrain coming to the Divine Service eſtabliſhed in the Church of</hi> England.</p>
+            <p>The one was the killing of a particular Perſon, The other made a breach in the Myſtical Bo<g ref="char:EOLhyphen"/>dy of Chriſt.</p>
+            <p>The Members of the Myſtical Body diſtinctly diſcourſed on, By the ſaid Poor Man and his Wife.</p>
+            <p>Imprinted at <hi>London</hi> for the Author, for the only benefit of his Wife and Children, <hi>Anno 1666,</hi> when time ſhall come.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:99201:2"/>
+            <pb facs="tcp:99201:2"/>
+            <head>The Epiſtle Dedicatory, To my dear and beloved Wife.</head>
+            <p>
+               <hi>DEar Wife, I think it moſt proper to dedicate the enſuing Diſcourſe unto your ſelf, for the uſe and benefit of my Children: ſome of them by reaſon of their tender age, are not as yet able to read; I hope you will ſee them learn to read (if I dye) and alſo inſtruct them the beſt you can. The Diſconrſe is partly the ſame which was diſcourſed on between our ſelves: I know if any ſhould ſee it, they will be apt to ſay, it is ſimple diſcourſe; let them know, that it comes from poor country ſimple folks; and yet, not more ſimple than that which is in</hi> Ridiculus Mus, <hi>the Church Cate<g ref="char:EOLhyphen"/>chiſm, which teacheth to tell three lies in one breath;</hi> Wherein I was made a member, <hi>&amp;c. They may ſay likewiſe, it wants method: let them know, that men and their wives do not alwayes talk by method, but one among ano<g ref="char:EOLhyphen"/>ther. The Times you know are much enclin'd to Superſtition, that's but the Mother of Idolatry, and dwelling in a place where 'tis much uſed, ſome of them are inclinable to run to the Worſhip, to hear the Organs, the Singing-men and Boyes; they account it fine paſtime, to ſee the Biſhop in his Lawn-ſleeves, the Doctors and Prebends in their Fools Caps, Superſtitious Habits and Formali<g ref="char:EOLhyphen"/>ties, like Stage-Players, or Morrice Dauncers, is pretty ſport to them, they may in good earneſt be drawn to a likeing of it, and ſo in time joyn with them in their falſe worſhip.</hi>
+            </p>
+            <p>
+               <hi>The Diſcourſe I have obtained to be printed, hoping is may inform them what Superſtition is; and the example of Parents is many times prevalent with Children for imitation, be it good or evil: I can ſpeak it by experience; My father and mother were both of them Church-Papiſts, and dwelling in a country village, where there was only a Reading-Prieſt, they commonly went to the Service, or Even-Song (as it is called) and ſaw nothing in it that might juſtly offend them; my mother taught me Popiſh prayers, my father would go to his private Devotion; he dying when I was but nine years of age, left me, among other things in preſent poſſeſſion, a ſtock of Popiſh Trinkets, Books with fine red letters in them, one Latin book in folio, with thick covers of wood, the leaves parchment, gilded down the margent, and on the top with let<g ref="char:EOLhyphen"/>ters and faces in them; Images, Beads, and a Crucifix, which was the fineſt of my gods; and although my father never taught me to uſe any of them, yet to work I went with them; the Images had ſome ſmall adoration; the Beads, I underſtood not the uſe of them; the Crucifix, a fine face neatly gilded, I prayed unto. My ſchool-fellows had a game, called</hi> Tray-Trip, <hi>at which they played for ſuch ware as they had, I fell at it likewiſe, and out went the</hi> Parchment<g ref="char:EOLhyphen"/>leaves, <hi>and quickly brought the thick wooden Covers nearer together; then
+<pb facs="tcp:99201:3"/> to my Beads, I went to work with them, one after another; then to my Cruci<g ref="char:EOLhyphen"/>fix, hoping that might fetch all back again; I tript it ſo long, that at laſt I tript all away: I have admired why the Devil would ſtand by, as commonly he doth at gaming, and ſee his young diſciple thus cheated of his gods, but that he thought to put them into the hands of the bigger boyes, which might imploy them more to his advantage.</hi>
+            </p>
+            <p>
+               <hi>I could wiſh that all Superſtition, all</hi> Romes <hi>Remnants, Reliques, Rites and Rags were at ſtake, between the</hi> Devil <hi>and the</hi> Pope, <hi>at ſweep-ſtake; I could wiſh the Devil the winner, on condition he would carry them to the bottomleſs Pit from whence they came, and burn them. But ſtay a little, give the De<g ref="char:EOLhyphen"/>vil his due, they be his own already, only out of good will and courteſie, he ſpares them the Church of</hi> England, <hi>for ornament and decency; neither is the De<g ref="char:EOLhyphen"/>vil ſo very a fool, nor ſo bad a husband, to burn that for traſh, ſo long as it will ſerve to help to make a hedg to keep honeſt godly Preachers out of the Pulpit, which otherwiſe might help to dispoſſeſs him of his Kingdom.</hi>
+            </p>
+            <p>
+               <hi>It's ſtoried of a Noble Perſon, who invited an Emperour to dinner, where a<g ref="char:EOLhyphen"/>mong the reſt of ſuperflums Neednots, there were two rich Cupboards of Glaſſes, of much value and high eſteem with the owner; the Noble Perſon had a</hi> Black<g ref="char:EOLhyphen"/>moor, <hi>who by accident brake one of the Glaſſes, whoſe puniſhment for the fact muſt be no leſs than death, and ſuch a death, as that he muſt be thrown into a great pond, to be devoured of the</hi> Lampreys <hi>which were therein; the</hi> Black<g ref="char:EOLhyphen"/>moor <hi>gets him into a corner or hole, and there roars and cryes moſt hideouſly: The Emperour taking his leave, and as he was going away, he heard a fearful cry, and enquiring what the matter was, it was told him: he ſends for the</hi> Blackmoor, <hi>who relating the matter, with the circumſtances, the Emperor returns to the Noble Mans houſe, and with a ſtick he had in his hand, brake all the Glaſſes; the Noble Man demanded of him wherefore he did it? he anſwered,</hi> It were better that all the Glaſſes were broken, were they a thouſand times ſo many, rather than that the precious life of one man ſhould be caſt away.</p>
+            <p>
+               <hi>It were better that all</hi> Romes <hi>Remnants, Reliques, Rites, &amp;c. now in uſe in the Church of</hi> England, <hi>were ſent to Hell, from whence they came, rather than that one honest godly Preacher ſhould have his mouth ſtopt, for that he cannot endure that the Rags of the old Whores tail ſhould be drawn through his teeth.</hi>
+            </p>
+            <p>
+               <hi>But I know Wife what they will ſay, that a man of my condition ſhould not meddle with theſe things, it's fitter for perſons of higher quality than I am, being of mean deſcent for parentage, and a poor man.</hi>
+            </p>
+            <p>
+               <hi>To which I ſhould anſwer their reverend Lordſhips, were they preſent, that I have more cauſe to ſtand for my Maſter</hi> Chriſt, <hi>than they for</hi> Antichriſt, <hi>and that with more boldneſs too; and for my parentage, true it is, I am mean<g ref="char:EOLhyphen"/>ly deſcended; my</hi> Abavus <hi>(for I find no Latin word beyond it for a great-Grand-father)</hi>
+               <pb facs="tcp:99201:3"/> Japhet, <hi>the third ſon of</hi> Noah, <hi>from whom came the Gentiles, in the interval of Worlds, was a companion, as for</hi> clean, <hi>ſo for</hi> unclean <hi>Beaſts, for Aſſes, Pigs and Wolves: From his loins I received a ſwiniſh helliſh nature, ſwarming with divers luſts: And an Aſſe-like head, ſtupid and dull, without any true underſtanding of any divine Myste<g ref="char:EOLhyphen"/>ries, or ſaving Knowledge; and therefore can juſtly claim nothing for my Coal of Arms, but a Pigs-tail, and an Aſſes head for the Creſt. If any of you ſtep further into the old world, and ſpeak with the old man, there you will find the fountain as purely corrupt (if I may uſe that Epithite) as the ſtream, only you may take thence a coat of Fig-leaves, which will be too ſhort to hide your cloven-footed deviliſh natures. If you come back into this world, to old</hi> Jacob, <hi>and think to take up a coat there; which, as I have heard ſome ſay, who pretend to have skill in</hi> Heraldry, <hi>that the riſe of it is founded from</hi> Ja<g ref="char:EOLhyphen"/>cob, <hi>falſly underſtood to be Coats of Arms, which he declared as Bleſſings that ſhould come upon his Sons, he would tell you (if alive) that thoſe Prophetical Predictions which he uttered by the inſtinct of a divine Spirit, were never in<g ref="char:EOLhyphen"/>tended as Preſidents to make proud Fools, Coats of Honour; and therefore you may return, and take up my Coat, with the addition of a Wolfs-skin, which is as honourable as an Arch-Biſhops Miter; and that as truly honourable as the Popes Triple-Crown.</hi>
+            </p>
+            <p>
+               <hi>My Reverend Lords, give me leave to pig it once more with you: I am the poor Pig that feeds in a bare-bitten Common, a diſh of Grains, Whey or Waſh falls to my ſhare, wherewith I am contented, and my ears ſecure: You had ſome better paſture or feeding than mine, but Pig-like, whyning and diſ<g ref="char:EOLhyphen"/>contented therewith, you are crept through the hedge into the Corn or Bean<g ref="char:EOLhyphen"/>fields, and there you are up to he ears, and above the cars too; you were ne<g ref="char:EOLhyphen"/>ver turned in at any gate; if the Heyward or Field keeper ſhould come, perad<g ref="char:EOLhyphen"/>venture you may anſwer the trespaſs with the forfeiture of your ears: And leſt that you ſhould not underſtand me, we will unpig our ſelves, and then give me leave to take a turn with you in your Palace Parlour, and there I ſhall tell you, that the ſtation wherein you ſtand, is none of Chriſts inſtitution: you en<g ref="char:EOLhyphen"/>ter but as Jackdaws into Steeples; you are not entred in by Chriſt, who is the door, and therefore but Thives and Robbers. Dioceſſan Biſhops are but of humane inſtitution.</hi> Cambden <hi>in his</hi> Brittania <hi>tells us, that</hi> Dyoniſius <hi>was the firſt that divided</hi> Italy <hi>into Dioceſſes and Pariſhes: And it's not unknown to you, who first divided</hi> England. <hi>What have you to do to lord it now over God's Heritage, and to undertake the office of Apoſtles, nay of Chriſt him<g ref="char:EOLhyphen"/>ſelf? wherein you are Blasphemers, in that you preſume to give the Holy-Ghost to your Creatures, who are therein guilty of Blaſphemy; when by your imitation, you are as incomperable to Chriſt and his Apoſtles, as the Apes on the Alps to</hi> Alexanders <hi>Army. Theſe, with the reſt of your uſarpations, take heed you do not anſwer with the loſs of your ſouls.</hi>
+            </p>
+            <pb facs="tcp:99201:4"/>
+            <p>
+               <hi>And as you have been the grief of the Godly in Ages paſt, ſo you are at this day; and as you live undeſired, ſo you dye unlamented by the Dioceſs wherein you domineer, and no more lamentation made for you, than for the moſt fordid Catchpole in the Country: And when any of you die, I have not heard that ever the Dioceſs went to prayer for a ſupply in your places.</hi>
+            </p>
+            <p>
+               <hi>The premiſes conſidered; I ſhall aſſume the boldneſs to tell you, that foraſ<g ref="char:EOLhyphen"/>much, as I hope, that there was as great a price paid for me, as for the beſt of you, and that by him who is no reſpecter of perſons, and hath made all Nations of one blood, that</hi> qua <hi>man, I am as good a man as the best of you. And al<g ref="char:EOLhyphen"/>though my condition in the world be ſuch, that in hard times, with the reſt of my poor neighbours, I have entertained Biſhop</hi> Bean, <hi>Doctor</hi> Barly, <hi>and Par<g ref="char:EOLhyphen"/>ſon</hi> Peaſe <hi>at the upper end of my table, with a cup of Cow Beer, as good as the beſt Gentlemans Oxe in the Country drinks (and glad I could ſee them there) yet would not I change my preſent condition with any of you for the beſt of your Biſhopricks, which was at firſt cheated from the poor Country, nor for the fu<g ref="char:EOLhyphen"/>ture ſwop ſouls with you; in which trade of Soul-ſwopping ſome of you have much skill.</hi>
+            </p>
+            <p>
+               <hi>Well Wife, this I could tell them, if they were preſent: but good Wife, keep this Letter cloſe, for if the Biſhop ſhould meet with it, as lately he met with a</hi> Book <hi>and</hi> Letter, <hi>of which I am the ſuppoſed Author, it may be as much as my liberty is worth: And for the Books, for fear leſt any of them ſhould be loſt, give the Children a charge to keep them ſafely: If any accidentally meet with any, I deſire they would ſend them home by the hand of thoſe that know where I dwell, or make a hole in the ground and bury them. If any take up a book and read, and be offended at it, then 'tis,</hi> Scandalum acceptum, et non datum; <hi>an offence taken, not given. I throw a bone to my own dog under board, other quarrelling curs fall together by the ears about it, ſhake my poor cur, and per<g ref="char:EOLhyphen"/>adventure, bite me by the ſhins into the bargain; the fault is not in me, I may give a bone to my own dog; nor in my dog it cannot be, nor in the bone; it is in thoſe quarrelling curs, that fall together by the ears about that they have nothing to do withal. So I dedicate a book to my own Wife, for the uſe and be<g ref="char:EOLhyphen"/>nefit of my own Children, ſome Maſtive fellows underſtanding that I intend ſuch a thing, begin before hand to quarrel; the fault cannot be in my Wife nor Children, nor in the poor innocent Paper, nor in me it cannot be, it is my duty to inform my Children. There is an Act, that Tutors and School-maſters ſhall teach no Chatechiſm, but the Church Chatechiſm, I am not reſtrained thereby. What's the matter theſe Maſtive fellows quarrel about it, and be ready to come out with a</hi> Bowgh wough <hi>at me.</hi>
+            </p>
+            <p>
+               <hi>I have ſeen a country man walking by a country houſe, which hath ſtood ſome what ſolitary, out comes a great 'Dog with a</hi> Bowgh, wough, wough, <hi>at him, the country man ſpreads his arms, runs to meet him, as if he would catch him in his arms, the dog ſeeing it, claps his tail between his legs, away he</hi>
+               <pb facs="tcp:99201:4"/> 
+               <hi>uns; the Country man cryes rut,</hi> Begone ye cowardly Cur, begone, what afraid of a naked man;</p>
+            <p>
+               <hi>This laſt year, travelling upon Briſtol-Read, I had a wooden Dagger in my hand, almoſt a Swords fellow, which a Gentleman commended to a young Kinſ<g ref="char:EOLhyphen"/>man of his by my hand, and having it naked in my hand, meeting with a man on horſeback, my ſelf on foot, pretended ſome fear I put him into, ſhunn'd the way, and began to quarrel with me;</hi> Begone thou cowardly fellow, be<g ref="char:EOLhyphen"/>gone, what afraid of an old man with a wooden Dagger, <hi>ſaid I,</hi> for ſhame begone. <hi>So I ſay to theſe Maſtive fellows, Begone ye cowardly fellows, be<g ref="char:EOLhyphen"/>gone, what afraid of a naked-man? What's the matter ye are afraid of? cannot a poor man and his wife talk lovingly by the fire-ſide, nor in bed neither, but ye are offended at it? 'tis but a wooden Dagger, come forth and fight it out with me and my wife;</hi> non virgis, ſed verbis; <hi>I aſſure you ſhe is a hanſome woman; and ſome of your Tribe love to deal in ſuch ware, love corporal un<g ref="char:EOLhyphen"/>cleanneſs as well as ſpiritual: but ſhe is too honeſt to deal with you upon ſuch terms. You were Champions for the King, that you were; no marvel though the King loſt the day, when his Souldiers are afraid of a wooden Dagger; Hath your Kingdom ſuch ſlender props, it drends falling by ſuch weapons? What's the matter that</hi> Crackfart <hi>your Blood-hound attends my motion, and purſues me, and threatens me with</hi> Gate-houſe <hi>and</hi> Gallows, <hi>and Warrants granted forth for my apprehenſion? Have ye no weapons in</hi> Davids <hi>Armory to fight withal? ſure he is not your King. But when I conſider that you are the Locuſts, and that the Locuſts have no King but the Angel of the Bottom<g ref="char:EOLhyphen"/>leſs Pit, and that Priſons, Gallows, Baniſhments, Fire and Fines, are ſuch weapons as come forth of the Antichriſtian Armory, and that your time is but ſhort, I do not blame you, poor wretches, to be afraid of a wooden Dagger. But good Wife keep this Letter cloſe.</hi>
+            </p>
+            <p>
+               <hi>Well, poor Wat, ſhift for thy ſelf from Form to Miſſet, and leave the Wood, and take the Corn fields and run counter; take heed they do not courſe thee to the Gallows hill, and there give thee a turn, and make poor Wat cry,</hi> Squeak, ſqueak.</p>
+            <p>
+               <hi>But my Dear, I am in all ſtraits and neceſſities ſure to finde a Friend of you, and I expect the worſt that may befall me; I am but poſitively high, yet above the reach of Envy; and yet ſo ſuperlatively low, that I am beneath it:</hi> Qui cadet in terram, <hi>&amp;c, he that falls to the ground, can fall no lower; as comparatively rich as he that hath the World, and that ſatisfaction at home, which the world cannot afford abroad; and that content in you, which the world cannot afford me without you: 'Tis not the old Witch the</hi> World, <hi>when we had it by the noſe, nor ſince it hath caught us by the noſe, nor my La<g ref="char:EOLhyphen"/>dy</hi> Care <hi>her Couſin, could cozen you out of your old inmates, Peace and Pati<g ref="char:EOLhyphen"/>ence: and were it not for you, with a great charge of young Children, I were,</hi> in mediis lacera puppe relinquor aquis, <hi>left as a free-born Engliſh-man, to</hi>
+               <pb facs="tcp:99201:5"/> 
+               <hi>enjoy the priviledge of a rative birthright, which is,</hi> To heg, ſtarve, <hi>er</hi> ſteal and be hang'd. <hi>Yet I fear not the Providence of God: I have had a back, but not without a coat; and found a God when quite without a great; who fits my ſtomack to my meat, and my mind to my coat, ſo that I can ſing with</hi> Hortace,</p>
+            <lg>
+               <l>Sit mihi menſa tripes,</l>
+               <l>er concha puri ſalis,</l>
+               <l>Et toga quae defenderit frigus,</l>
+               <l>quamvis craſſa queat.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Give me a tripede for my table,</hi>
+               </l>
+               <l>
+                  <hi>and for my ſalt a ſhell,</hi>
+               </l>
+               <l>
+                  <hi>A gown, though it be courſe,</hi>
+               </l>
+               <l>
+                  <hi>ſo it will cold expel.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>My Dear, painful ſteps and old age, give me a ſummons to the grave. In my laſt will I had nothing to leave my poor Children, but each Child</hi> Adam's Comb, I meant their fingers, with a deſire of God's bleſſing, which might prove a good portion to your ſelf; a little of the world, <hi>with</hi> a Great God; <hi>ſomething for bed, nothing for board. I would now make you, if I knew how, as large a Joynture as any Lady hath, if cordial affectionate words would do it, (to ſupport you when that ſmall aſſiſtance you have from me, ends) but I hope there is a Joynture hered it any to you, which is your Mothers; which, as ſhe told us, ſhe lay under the ſenſe of Divine Wrath for many years, without a God or Chriſt, ready to fall (as ſhe apprehended) every moment into eternal miſery; but when Houſes, Lands, Husband, deceived of her Joynture, and left with ſmall Children, and all means gone, the Lord came in to her ſoul, and became all things to her, and for her Joynture ſealed her a full Aſſu<g ref="char:EOLhyphen"/>rance of Heaven. That Joynture I hope will prove yours, which is as much happineſs as I can wiſh you.</hi>
+            </p>
+            <p>
+               <hi>I am the more large in my Epiſtle, not having ſeen your face nor my Chil<g ref="char:EOLhyphen"/>drens a long time, whilſt head and heart hath ſtood almoſt an hundred miles aſunder; not knowing when I may, I take leave; and the good-will of Him that dwelt in the Buſh he with you and yours: which is the deſire of your truly affectionate Husband,</hi>
+            </p>
+            <closer>
+               <signed>SILAWL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:99201:5"/>
+            <head>A Diſcourſe between a Poor-man and his Wife.</head>
+            <p>VVIFE, I can tell you more News from <hi>Rome;</hi> There is a Book, called, <hi>Philanax Anglicus; or a Caveat to Kings, Princes and Prelates, how they entruſt a pretended ſort of Proteſtants of integrity to commix with them in their Go<g ref="char:EOLhyphen"/>vernment; Shewing plainly from the Principles of all their Predeceſſors, that it's impoſſible to be at the ſame time</hi> Presbyterians, <hi>and not</hi> Rebels. <hi>Faith<g ref="char:EOLhyphen"/>fully publiſhed by</hi> Thomas Bellamy, <hi>Gent. Imprinted at</hi> London <hi>for</hi> Theo<g ref="char:EOLhyphen"/>dore Sadler, <hi>next door to the Dolphin in the Strand, over againſt Exeter<g ref="char:EOLhyphen"/>houſe,</hi> 1663. So much of the Title page.</p>
+            <p>The Dedication of the Book, <hi>To the Right Reverend Father in God,</hi> Gilbert, <hi>Lord Biſhop of London</hi> (now of <hi>Canterbury) and Dean of his Majesties Chappel Royal.</hi>
+            </p>
+            <p>
+               <hi>Bellamy</hi> is no leſs than a <hi>Papiſt,</hi> as by his railing againſt <hi>Zuinlius, Melancton, Calvin, Martin Luther, Buchanan, John Wickliff,</hi> and others, will appear; and by his eſteem of the Mattyrs in Queen <hi>Maries</hi> dayes, accounting them for Rebels. Now there is an Act of Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> that none ſhall ſell any <hi>Papiſts</hi> Books, and yet here is a <hi>Papiſt</hi> Book licenſed to be printed; and <hi>Crack-fart,</hi> at the end of his Intelligence, in his <hi>Advertiſements,</hi> lets fly the Book, telling where it is to be had. And an honeſt Gentleman lately tranſlated a Book out of the <hi>French</hi> in<g ref="char:EOLhyphen"/>to the <hi>Engliſh</hi>-tongue, and it would not paſs the Preſs, and yet the Act of Queen <hi>Elizabeth</hi> unrepealed. See what Medly is here! which puts me in mind of a buſineſs, it was thus: Sometimes living at <hi>Banbury</hi> in <hi>Oxfordſhire,</hi> I grew acquainted with one Mr. <hi>Sharp</hi> a Bookſeller, who with a Companion of his, an old <hi>Puritan</hi> aſwel as himſelf, got into the Church in the night <hi>(Sharp</hi> being Churchwarden) and threw down the Images, receiving ſome encouragement from a Doctor, who held a Viſitation in <hi>Banbury,</hi> being a Peculiat within the Juriſdiction of <hi>Lin<g ref="char:EOLhyphen"/>culn,</hi> who delivered this Obſervation in his Sermon, <hi>That it is the du<g ref="char:EOLhyphen"/>ty of every Chriſtian to put to his hand to the pulling down of Idolatry.</hi> Mr. <hi>Sharp</hi> is had up into the High-Commiſſion Court, where this Doctor was become one of his Judges, and to the Clink he muſt go: When he came into Priſon, certain <hi>Papiſts</hi> being likewiſe Priſoners there, one of them demanded of Mr. <hi>Sharp</hi> for what fact he was brought Pri<g ref="char:EOLhyphen"/>ſoner? who anſwered, for throwing down Images in <hi>Banbury</hi> Church. O ſayes the Papiſt, <hi>What a hodg-podge is your Religion! we are put in for</hi>
+               <pb n="2" facs="tcp:99201:6"/> 
+               <hi>ſetting of them up, and you are put in for pulling of them down.</hi> And is not thie a pretty <hi>hogpodg,</hi> that an honeſt man ſhall not have the liberty to print againſt the <hi>Papiſts</hi> but be diſcountenanced, notwithſtanding the aforeſaid Act is ſtill in force againſt printing and publiſhing <hi>Papiſts</hi> Books, very many of them having been burnt by Authority?</p>
+            <p>But Wife, to ſee how the Papiſt claws the Biſhop, in ſaying, that <hi>thoſe that you cannot bring into your Fold by your ſweet paternal Call, may be brought in by the power of your Paſtoral Staff.</hi> Again, <hi>Your knowledge is ſuper-excellent in all things, there are incorporated in your ſole perſon the ver<g ref="char:EOLhyphen"/>tues and faculties of thouſands of others; That your fair ſoul ever appears like the precious Bird of</hi> Perſia, <hi>called</hi> Ibis. The Reverend Father, that <hi>fair ſoul,</hi> to gratifie him again, rewards his good opinion of him with approbation of his Book; and with a <hi>Shame-take-them</hi> both together, to ſee the correſpondency that is between them, the one a <hi>Papist,</hi> the other a <hi>Proteſtant</hi> in name, whithout any Schiſm or Claſhing one againſt another, puts me in mind of the <hi>Cat</hi> and the <hi>Rat</hi> which was in our Cup<g ref="char:EOLhyphen"/>board not long ſince: You may remember you told me ſeriouſly that there was a <hi>Rat</hi> in the Cupboard, which when I had peept into and ſaw, I uſed the beſt skill I had to catch; a Blanket muſt be fetcht, you held one end, I the other, the Cupboard thrown open, when the <hi>Rat</hi> leapt into the Blanket we muſt clap to; out comes the <hi>Rat</hi> into the Blanket, but wanted patience to ſtay till we caught him. In he comes another day, Then <hi>Husband</hi> (again) <hi>the Rat is the Cupboard;</hi> a Gentlewoman one near our own quality, a <hi>Wantcatchers</hi> Wife, gave us a verbal Certifi<g ref="char:EOLhyphen"/>cate likewiſe of her <hi>Cats</hi> ſuper, excellency for <hi>Mouſ-hunting,</hi> which when we had obtained, my ſelf being a diſcreet man, got a pair of <hi>Tongs,</hi> and, fearing leſt any thing might enterpoſe the fight of other, wiſely got out the Cheeſe, much like a <hi>New Moon,</hi> and a proportionable quantity of Bready into the Cupboard advanced is the <hi>Cat:</hi> and enemies now in ſight one of another, ſome ſpeedy execution is expected, but nothing but peace: At laſt I took up one end of the ſide-Cupboard, and jumbled them together, up went the other end, and jumbled them again, but nothing would do, the Antipathy in Nature was quite gone: I looked in, and ſaw the <hi>Prelatical Cat</hi> and the <hi>Romane Rat</hi> ſit as lovingly cloſe together as might be, without any Schiſm or Claſhing We threw open the Cup<g ref="char:EOLhyphen"/>board, the <hi>Prelatical Cat</hi> went home, but loſt ſome credict by it; but hang't, what cares a <hi>Prelatical Cat</hi> for a little vulgar Credit, ſo long as he can keep the Maſter of the companies good will, and the Maſter of the <hi>Romane Rats</hi> alſo. And is it not pretty to ſee the <hi>Biſhop</hi> and the <hi>Papiſt,</hi> like two Colts nabbing one another by the Manes, or reſembling wean<g ref="char:EOLhyphen"/>ning <hi>Calves,</hi> licking one another? Their courteous Carriage and loving Behaviour minds me of that paſſage of St. <hi>Francie,</hi> who looking out at a
+<pb n="3" facs="tcp:99201:6"/> Window, and ſaw a <hi>Friar</hi> kiſs a <hi>Nun,</hi> was very thankful there was ſo much Charity in the world.</p>
+            <p>Now Wife, I ſhall acquaint you with ſome paſſages in the Book. Firſt, He commends <hi>Seignior Beaumanoir</hi> for a bloody Maſſacre, in theſe words, <hi>Who like a Noble Cordial Cavalier engaged his Sword in the Kings behalf, and ſlew the Serpent, and freed the Monarchy from any more of the Serpentine ſervitude.</hi>
+            </p>
+            <p>
+               <hi>It is well known that the whole eſtate of the Church enjoyed a ſetled Peace, and all their Rights and Priviledges; all Princes with great devotion were Nurſing Fathers and Protectors of it. There was a perfect Harmony for all matters of Religion and Faith between the Church of</hi> Rome <hi>and the Princes of</hi> Chriſtendome: <hi>Anno 1515.</hi> Martin Luther, <hi>a man of a turbulent Spirit, was the firſt that broke this long and happy Peace, puf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up with vain glory and ambitious conceit of himſelf, put himſelf upon higher ſtrarns, and as a man grown ſick in his ſpirit, and of a fiery diſeaſe, he began to rave and defame all Church-Government, he abandoned the</hi> Cloi<g ref="char:EOLhyphen"/>ſter, <hi>caſt off his</hi> Habit, <hi>and renounced all obedience to his Superiors; for now he preacheth againſt the whole Clergy and Tyranny of the Biſhop of</hi> Rome, <hi>whoſe Authority in matters of Religion till that time was held Sacred.</hi>
+            </p>
+            <p>He further ſaith, that <hi>The Lord</hi> Cobham, Sir John Acton, <hi>and Sir</hi> John Oldcaſtle, <hi>two of</hi> Wickliff's <hi>Diſciples, were deſervedly put to death for Hereſy, Rebellion and Treaſon in</hi> Henry <hi>the Fifth's time.</hi>
+            </p>
+            <p>He ſaith, <hi>That this Hereſy lay ſtrangled in the Cradle until</hi> Edward <hi>the Sixth's dayes, whence ſome ends of it were taken up again with more oftenta<g ref="char:EOLhyphen"/>tion than ever in that Prince's minority; and what rare effects of obedience were produced by that Maſſacre in Queen</hi> Maries <hi>dayes, who brought them up to the Teſt, we may reade in our</hi> Engliſh Chronicles, <hi>wherein it's plain that in thoſe poor five years of her Reign there was</hi> de facto <hi>more open Violence, Oppoſition, and</hi> 
+               <note place="margin">† Here he ac<g ref="char:EOLhyphen"/>counts the Mar<g ref="char:EOLhyphen"/>tyrs for Rebels.</note> 
+               <hi>Rebellion, made by her own Subjects, than in many years before.</hi>
+            </p>
+            <p>Again, <hi>But my abundant care to have the good People of</hi> England <hi>diſabuſed cleerly from that Abominable Rebellious Brood of</hi> Preſ<g ref="char:EOLhyphen"/>byters, <hi>that Viperous Crew of Cockatrice Chriſtians.</hi> Again, ſpeaking be<g ref="char:EOLhyphen"/>fore of killing Princes, <hi>denies it to come from</hi> Rome, <hi>for its opinions and practiſes is meer Callumny.</hi> Again, <hi>That ſo impious a thing as the mur<g ref="char:EOLhyphen"/>dering of Princes never entered into the heart, tongne, or pen of any true</hi> Romane <hi>Catholick.</hi> [Witneſs the Gun-powder Treaſon.]</p>
+            <p>Again, <hi>Luther may very well pretend to have taken their water-courſe from the</hi> Wickliffs <hi>and</hi> Waldenſes, <hi>and they again to have borrowed from the broken Cisterns of God's Church, the ancient Sons of Diſobedience and Rebellion, the declared Enemies and Caſt-awayes of Chriſtianity in all ages.</hi>
+            </p>
+            <pb n="4" facs="tcp:99201:7"/>
+            <p>Again, <hi>The Preshyter, the legitimate ſucceſſor of the Traytox</hi> Judas, <hi>who undoubtedly was the firſt Chriſtian of this Crew Diabolical; their Pedigree can come but from that high and mighty Lucifer; their impious Opinions and prodigious practiſes do clearly demonſtrate them to be but from the Devil.</hi>
+            </p>
+            <p>Wife, This is enough to acquaint you that <hi>Bellamy</hi> is a <hi>Papiſt,</hi> but I have the Book to give you further ſatisfaction; and by <hi>L'eſtrang</hi>'s ap<g ref="char:EOLhyphen"/>probation of it, in putting it in the Weekly Intelligence, letting it fly to further the ſale of it, ſhews plainly what he is.</p>
+            <p>
+               <hi>The Biſhop, Bellamy, Crack-fart their Brother,</hi>
+            </p>
+            <p>
+               <hi>In point of judgment each like other.</hi>
+            </p>
+            <p>
+               <hi>MAGNA CHARTA.</hi>
+            </p>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>
+                  <hi>Husband, the laſt Winter you and I fell into ſome diſcourſe by the fire, and brake off ſomewhat abruptly; you promiſed to begin with</hi> Magna Charta, <hi>and talk over three or four ſheets more, now tell me what you did mean by</hi> Magna Charta.</p>
+            </sp>
+            <sp>
+               <speaker>Huſ.</speaker>
+               <p> Wife I am ready to make good my word.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>But Husband if it pleaſe you we will goto Bed, for our Coals will ſcarce<g ref="char:EOLhyphen"/>ly make a fire in the morning, and there will be hardly any to be had at the Key.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife I am contented.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband put out the Candle, for that peice of Watch-light is all the Candle we have in the Houſe; and good Husband be ſerious an this thing without flaſhes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Now I will tell you what I did mean by <hi>Magna Charta,</hi> and ſhall be ſerious.</p>
+               <p>When in the dayes of <hi>Henry</hi> the third there was a great War between the King and his Barrons, which began in his Fathers dayes, and conti<g ref="char:EOLhyphen"/>nued in his time for many years, and both ſides began to be weary, it came to this Refult and Concluſion, That there ſhould be a Writing drawn up between them, which ſhould expreſs the Prerogative Royal of the King, and his Subjects Priviledges; which being decreed in High Court of <hi>Parliament,</hi> was called, <hi>Magna Charta,</hi> which was to be a ſtanding Law to the Nation.</p>
+               <p>In which ſence, I call the Sacred Scriptures <hi>Magna Charta,</hi> but more eſpecially the New-Teſtament, in which are expreſſed Chriſt's Preroga<g ref="char:EOLhyphen"/>tives and his Subjects Priviledges, and that by a perpetual Decree in the Court of Heaven, unalterable, irrevocable. The Lord <hi>Cooke</hi> in the ſe<g ref="char:EOLhyphen"/>cond part of his <hi>Inſtitutes,</hi> ſpeaking of the <hi>Magna Charta</hi> of the Nation, ſaith, <hi>That although it be but ſmall in compariſon of other Writings, yet it is of great uſe.</hi> As <hi>Alexander</hi> the Great was but a little man, yet he was, <hi>R<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Magnus,</hi> a Great King; and ſo it may be ſaid of this <hi>Magna Charta,</hi> although it be but ſmall in compariſon of other Volumns, yet
+<pb n="5" facs="tcp:99201:7"/> it is of greateſt uſe, and proceeds from <hi>Rex Maximus,</hi> the Gaeateſt King; figured out by <hi>Solomon,</hi> Ezr. 5. 12. <hi>We are the Servants of the Great God, and build the Houſe, which was builded long ago, which a Great King of Iſrael ſet up,</hi> and behold a greater than <hi>Solomon</hi> is here. Nay He is both <hi>King, Law-giver</hi> and <hi>Judge,</hi> Iſa. 33. 22. and by this <hi>Magna Charta</hi> he will judge the World; ſo ſaith <hi>Paul, When Jeſus Chriſt ſhall judge the hearts of all men, according to my Gospel.</hi> This <hi>Magna Charta,</hi> is the only <hi>Magna Charta,</hi> and is of greateſt uſe; other <hi>Magna Charta's</hi> [may be ſmutted with the Smoak of a Chimney] or, as <hi>Oliver Cromwel</hi> ſaid, <hi>What tell you me of</hi> Magna Charta, <hi>Magna Farta; the Petition of Right, the Petition of</hi>—but this <hi>Magna Charta</hi> is undefiled, Pure and Perma<g ref="char:EOLhyphen"/>nent; Heaven and Earth ſhall paſs away, but not one jot or one tittle of this <hi>Magna Charta,</hi> until all things in it be fulfilled.</p>
+               <p>And however the Author of this <hi>Magna Charta</hi> by Hereditary Right is Heir apparent to the whole World, and hath all Kingdoms at his diſpoſal; for by him Kings Reign, and Princes decree Juſtice, and muſt vail their Crowns unto Him, and give an account how they carry themſelves in theſe great Places of Truſt committed to them, and of their Stewardſhips when they may be no longer Stewards; Yet is he an abſolute Monarch: And as the Father hath delivered up the King<g ref="char:EOLhyphen"/>dom unto him, and given all power both in Heaven and Earth into his hand; So alſo hath he another Kingdom, diſtinct from the Kingdoms of the World, which receives Power and Authority from him to manage all the affairs of the ſame, without the aſſiſtance of Civil or Eccleſiaſti<g ref="char:EOLhyphen"/>cal Power, who by a Covenant of Grace reconciling them unto him<g ref="char:EOLhyphen"/>ſelf, by Faith in his own moſt precious Blood, to whom he hath made many precious Promiſes, which are the Priviledges he beſtoweth on them; as firſt, <hi>He that overcometh ſhall eate of the Tree that is in the midſt of the Paradiſe of God: They ſhall have a white Stone given them, which no man knoweth but he that hath it;</hi> that they have <hi>free acceſs to the Throne of Grace;</hi> that he that toucheth them, <hi>toucheth the Apple of his Eye;</hi> that although all the world be his, yet they are his <hi>chiefeſt Treaſure,</hi> they are bone of his bone, and fleſh of his fleſh, and ſuch honour have all his Saints. Many more are the Priviledges he beſtows upon them, which a Volumn would ſcarcely contain: All which are contained in this his <hi>Magna Charta;</hi> and of ſuch People doth his Kingdom conſiſt, and ſuch are the Subjects of his Kingdom.</p>
+               <p>And the Tabernacle which the Lord hath pitched, and not man, ſha<g ref="char:EOLhyphen"/>dowed forth in the Tabernacle which <hi>Moſes</hi> inſtituted at God's Com<g ref="char:EOLhyphen"/>mand; for, ſaith he, <hi>See thou make all things according to the Pattern ſhew<g ref="char:EOLhyphen"/>ed thee in the Mount,</hi> and <hi>Moſes</hi> did every thing preciſely, <hi>Secundum for<g ref="char:EOLhyphen"/>mam,</hi> or <hi>Secundum ſimilitudinem,</hi> after the form, faſhion or likeneſs of it.
+<pb n="6" facs="tcp:99201:8"/> And Chriſt was faithful to Him that appointed him, as <hi>Moſes</hi> was; <hi>Moſes</hi> as a Servant, <hi>Chriſt</hi> as a Son; and as <hi>Moſes</hi>'s Inſtitutions were Rules for the Church of the <hi>Jews,</hi> ſo Chriſt's Inſtitutions in Goſpel<g ref="char:EOLhyphen"/>times, are for the Churches of Chriſt to walk by, which are contained in this his <hi>Magna Charta,</hi> his laſt Will and Teſtament, teaching them what to do: What Men or Magiſtrates command? No, <hi>Whatſoever I have commanded you.</hi> And if <hi>Nadab</hi> and <hi>Abihu</hi> where ſmitten with death by ſtrange fire from Heaven, for offering ſtrange fire, which was but a ſmall matter as men may think, to take fire from the Hearth, or elſe where, when they ſhould have taken it from the Altar; yet, not being according to the Inſtitution, ſee what came of it: And if the leaſt abber<g ref="char:EOLhyphen"/>ration, deviation or going aſide from the Law be damnable in point of Divine Juſtice, Is it a leſs ſin to go aſide from the Rule of the Goſpel? If he that ſinned againſt <hi>Maſes</hi> Law, was ſo ſeverely puniſhed, of how much ſorer Puniſhment ſhall he be worthy of, <hi>&amp;c.</hi> And if there be a Curſe denounced againſt thoſe that add to his Word, is it not a ſin to add to his VVorſhip? the Lord complains of it by <hi>Ezekiel, They ſet up their Poſts by my Poſts, and their Threſholds by my Threſholds.</hi> And now I have told you what I did mean by <hi>Magna Charta.</hi> And whatſoever is uſed in the VVorſhip of God, being not founded upon a Goſpel-Inſtitution, and cannot be warranted by a Goſpel-Rule, is Superſtition, a Vain Re<g ref="char:EOLhyphen"/>ligion; <hi>Who required theſe things at your hands? In vain do they worſhip me, teaching for Doctrine the precepts of men.</hi> And now I hope VVife, I have anſwered your requeſt in being Serious, and you cannot but aſſent unto the truth of it.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>
+                  <hi>Husband, I am ſatisfied concerning the truth of it; but for the in<g ref="char:EOLhyphen"/>formation of my Children, tell me where lies the difference between the Church of the</hi> Jews <hi>under the Law, and the Church of the</hi> Gentiles <hi>under the Gospel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife, the Church of the <hi>Jews</hi> under the Law, was the Seed of <hi>Abraham</hi> after the fleſh, by vertue of the Covenant which God made with <hi>Abraham;</hi> the Church under the Goſpel is the Seed of <hi>Abraham</hi> by Faith, ſuch as repent and believe the Goſpel: ſuch as heard the VVord gladly, were added unto the Church, which are under the ſe<g ref="char:EOLhyphen"/>cond Covenant.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, How do you define a Church? I have heard it thus: Where the Word of God is truly Preached, and the Sacraments duly Adminiſtred, that is a true Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife, the VVord of God may be truly preached, and the Sa<g ref="char:EOLhyphen"/>craments duly adminiſtred, and yet no true Church: for, firſt, the Adminiſtrator may have no right unto the work, Secondly, The Per<g ref="char:EOLhyphen"/>ſons wanting Faith, have no right to the Adminiſtration: But it's
+<pb n="7" facs="tcp:99201:8"/> Faith and Order which make a true Church according to Chriſt's In<g ref="char:EOLhyphen"/>ſtitution. But a true Church according to that Godly Learned man, Mr. <hi>Hen. Aynſworth,</hi> who was never controverted by any, and whoſe Ex<g ref="char:EOLhyphen"/>poſition on the five Books of <hi>Moſes</hi> carry eſteem with men of ſeveral Judgments, <hi>Prelatical</hi> aſwel as others; <hi>That a true Church is a Peo<g ref="char:EOLhyphen"/>ple, called of God by the Gospel from the world, unto the Communion and Fel<g ref="char:EOLhyphen"/>lowſhip of his Son Jeſus Christ, in whom they are coupled and built together, to be an habitation of God by his Spirit.</hi> The parts of it may be eaſily pro<g ref="char:EOLhyphen"/>ved, being known Texts of Scripture which you are acquainted with, I ſhall not ſtand upon.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, I have heard that the Church of</hi> England <hi>is a true Church; and many Preachers have inſiſted on it very much, to prove it to be ſo, becauſe of the truth of the Doctrine taught in it, and the converſion of Souls by the Doctrine preached therein.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, and ſo it may be ſaid that <hi>Rome</hi> is a true Church, becauſe there is ſome true Doctrine preached there, and in the judgment of Charity, ſome convereted there; it followeth not that therefore <hi>Rome</hi> is a true Church. And it cannot be denied, but that many honeſt God<g ref="char:EOLhyphen"/>ly men and women, and good Preachers have been born and lived in the Church of <hi>England,</hi> thouſands of them: Firſt, many that never ſaw the Corruptions in it: Secondly, ſome that ſaw them and did complain, and did bear them as burdens, as many may be inſtanced; which are no warrantable Preſidents for men in theſe times, wherein the Lord doth manifeſt more Light; for I can remember when Goſpel-Inſtitutions were not ſpoken of in the Country, no, not among old <hi>Nonconformiſts:</hi> A third ſort who ſaw the Corruptions in it, and juſtly ſeparated from it. And of each ſort a charitable conſtruction is to be had.</p>
+               <p>Yet the Church of <hi>England,</hi> as a National Church, was never foun<g ref="char:EOLhyphen"/>ded upon a right <hi>Baſis</hi> or Foundation; for the Conſtitution of it unto this day, and from the firſt Reformation of it, there hath been alwayes much diſſention, and when it was all of one colour, in darkeſt times, it was accounted a true Church; and ſince it became medly, it retains the name.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>
+                  <hi>Husband, when did the Reformation begin first?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife, in King <hi>Edward</hi> the ſixths dayes, before which there was a general inundation of <hi>Popery</hi> over the face of the Land, which conti<g ref="char:EOLhyphen"/>nued until the Reign of the ſaid King; and according to the Light which they then received, they endeavoured a Reformation, and com<g ref="char:EOLhyphen"/>pelled men to come to the Worſhip eſtabliſhed by King and Parliament, which is that we call <hi>Divine-Service,</hi> or <hi>Common-Prayer,</hi> which when the <hi>Papiſts</hi> in <hi>Devonſhire</hi> and parts adjacent heard of, they began to make ſome Inſurrection, but when they were informed that it was taken out
+<pb n="8" facs="tcp:99201:9"/> of the <hi>Old-Church-Rubrick,</hi> only tranſlated into <hi>Engliſh,</hi> they were prety well pacified. The courſe which the King and his Councel took at that time, was ſuch as ſeemed beſt, although according to the Rule of the Goſpel, neither could that good be done as many of them deſired, there being many Great Perſons that did obſtruct and hinder what others would have done, eſpecially of the Clergy. Contrary to this King and his Council was the practice of <hi>Ethelbert</hi> King of the Eaſt <hi>Angles,</hi> who when he was converted to the Faith, never compelled any, as Mr. <hi>Fox</hi> reports.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>
+                  <hi>Husband, do you think it fit for men to be compelled to come to the Worſhip of God? our Biſhop (as I heard you ſay) in his Sermon he preached before the Judges at the Aſſizes, urged them to put the Laws in execution; that where their hand was too ſhort, he craved the aſſiſtance of the Judges: he preached out of</hi> Canticles, Take us the little Foxes: <hi>he ſaid he would unkennel them as faſt as he could, and quotes</hi> Tertullian <hi>for his Another, that the</hi> Chriſtians <hi>did compel the</hi> Heathen <hi>to their worſhip; and further ſaid, that it was the Opinion of moſt of the Ancient Fathers, that thoſe which our Saviour ſent forth his Diſciples to call to the Supper, which ſate under the Hedges and High-wayes, were</hi> Schiſmaticks <hi>and</hi> Hereticks, <hi>and approved of the courſe that</hi> Mecoenas Alexanders <hi>Schoolmaſter preſcribed him, which was to worſhip his God after a uniform way, and command all others to follow his example.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, I could tell his Lordſhip when he quoted <hi>Tertullian</hi> for his Author, he might have wip'd his mouth on his <hi>Lawn Sleeves,</hi> for <hi>Tertul<g ref="char:EOLhyphen"/>lian</hi> ſaith no ſuch thing; and if <hi>Grotius</hi> may be credited which I read, and this extracted, where, ſpeaking out of the 14th of <hi>Luke,</hi> from the <hi>Greek</hi> word which is rendered <hi>Coge,</hi> Compel, he thus ſaith,</p>
+               <p>This place doth put me in mind of an <note place="margin">
+                     <hi>Facit hic locus me memorem eximii inter veteres Doctoris qui<g ref="char:EOLunhyphen"/>cum antea mult is in Libris aſſe<g ref="char:EOLhyphen"/>veraſſet, Neminem'ad profeſſio<g ref="char:EOLhyphen"/>nem Fidei cogendum: qua in re<g ref="char:EOLunhyphen"/>nihil dixerat quod ante ſe dixe<g ref="char:EOLhyphen"/>runt,</hi> Athenagorus, Arnobius, Minutius, Tertullianus, La<g ref="char:EOLhyphen"/>ctantius, <hi>&amp; quotquot alicujus nominis ante ſe vixerunt, &amp;c.</hi>
+                  </note> excellent Doctor among the Ancients, who had affirmed in many Books, that no man was to be compelled to the profeſſion of the Faith; in which thing he had ſaid nothing but what <hi>Athena<g ref="char:EOLhyphen"/>gorus, Arnobius, Minutius, Tertullian, Lactantius,</hi> and as many as were of any Fame who had lived before them, <hi>&amp;c.</hi>
+               </p>
+               <p>This place doth manifeſtly belong to <note place="margin">
+                     <hi>Cum hic locus manifeſto per<g ref="char:EOLhyphen"/>tineat ad Gentes adhuc Fidem non profeſſus, &amp;c.</hi>
+                  </note> the Gentiles, as yet not profeſſing the Faith.</p>
+               <pb n="9" facs="tcp:99201:9" rendition="simple:additions"/>
+               <p>And after ſaith, that this compulſion was no other than that of our Saviours, where he compelled his Diſciples to enter into Ship, it was, <hi>Nec trahendo, nec trudendo,</hi> neither by drawing, driving, nor thurſt<g ref="char:EOLhyphen"/>ing them. And whereas he ſaith, <hi>That moſt of the Fathers were of that opinion,</hi> that will be too hard for his Lordſhip to prove; and to bring the wiſdom of a <hi>Heathen</hi> for a Chriſtians practice, ſheweth no admired wiſdom: And whereas he ſaid, <hi>He would unkennel the</hi> Foxes <hi>as fast as he could;</hi> if all the <hi>Wolves</hi> ſhould be unkennl'd, [himſelf with the reſt of his Tribe muſt lie without doors] But for the Modern Writers, as <hi>Melancton, Luther,</hi> and the reſt, are againſt compulſion. <hi>Luther</hi> ſaith, <hi>Predicare anuntiare ſcribere volo neminem; antem adigam;</hi> I will preach, and teach, and write, but I will compel no man.</p>
+               <p>And again <hi>Luther</hi> ſaith, <hi>Chriſtus non vi aut igne homines cogere vult,</hi> Chriſt will not by fire and force compel men. And <hi>Tindal</hi> ſaith, <hi>Fides ſua ſponte non coacte agere vult,</hi> Faith will work of its own accord, not by conſtraint: And he is a young Student in the <hi>univerſity,</hi> that cannot tell you, <hi>Voluntas cogi non poteſt,</hi> the will cannot be compell'd. But what need we go to humane Authors, when we have the practiſe of our Saviour left for inſtruction and imitation: <hi>He that hath ears to hear, let him hear;</hi> and he that will not, let him chuſe whether he will or no. When his Apoſtles moved him to command fire from Heaven to have deſtroyed them that received him not, ſee what he ſaith, <hi>Ye know not of what ſpirit ye are; for the Son of man is not come to deſtroy mens lives, but to ſove them.</hi> Wife theſe things are ſo publickly known, that I might ſpare to make mention of them, but not yet known to my Children; and one thing more out of Hiſtory. That which is recorded in the life of <hi>Simon</hi> and <hi>Jude</hi> the Apoſtles, as both <hi>Gulielmus defancto amore,</hi> and <hi>John His</hi> relate, That when the Chief Ruler was very angry with thoſe that defamed the Doctrine of the Apoſtles, and in great Zeal commanded a fire to be made, that ſuch oppoſers might be caſt into it, the Apoſtles fell down before the <hi>Emperour,</hi> ſaying, <hi>We be<g ref="char:EOLhyphen"/>ſeech you (Sir) let not us be the Authors or Cauſers of this deſtraction, who are come to publiſh the Doctrine of eternal Salvation; neither let us who are ſent to revive thoſe who are dead through ſin, become the killer of thoſe who are alive.</hi>
+               </p>
+               <p>And if there was an Act of Parliament, that all men ſhould have faces one like another, and propoſe one man for a Pattern, it would be as eaſily brought to paſs, as to compel all men to be of one Judgment; for he that hath a hand in forming of the face, hath a hand in forming the Judgment; and the forcing of men to forms of worſhip comes to as much as the man's Penance which he performed in <hi>Powls</hi> lately at the latter end of <hi>March,</hi> it was thus; A man had married an ancient woman
+<pb n="10" facs="tcp:99201:10" rendition="simple:additions"/> by whom he had no iſſue; ſhe dying, he matried the daughter, by whom he hath two children, and ſhe great with the third; they agree very well, and he is a loving tender husband unto her, nevertheleſs the Conſan<g ref="char:EOLhyphen"/>guinity muſt produce a Divorce: He ſtood in a white ſheet rather than he will give a great ſum of money; he muſt make a publick Confeſſion of his Crime, by ſaying after one who had a Paper in his hand; and for this his notorious offence, which is eſteemed ſo by them, or at leaſt diſſembled ſo to be, he muſt deſire the Congregation to pray for him; all this while he reſolves to continue his love to her, and that ſhe is his wife lawfully. And ſuch is a forced Conformity to the Forms of Worſhip now in faſhion: but when men are once got out of a dark dun<g ref="char:EOLhyphen"/>geon, they will hardly be brought into it again: But fear of trouble may make men do that outwardly, which inwardly they deteſt, and ſo make Hypocrites. Mr. <hi>Fox</hi> reports of <hi>John Frith</hi>'s Son who ſeeing his Fa<g ref="char:EOLhyphen"/>ther burnt, ſome of them who had a hand in his Fathers death, demand<g ref="char:EOLhyphen"/>ed of the young man, how he did believe? who anſwered, <hi>Even as it pleaſeth you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, So it is, that Great men, and Parliaments, Convocations and Councils have deemed ſuch a Reformation and Conformity requiſit in well govern'd Kingdoms.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife, <hi>Elibu</hi> one of <hi>Job</hi>'s friends ſaith, that <hi>Great men are not alwayes wiſe, neither do the Mighty underſtand Judgment.</hi> Convocations and Councils may err, as in the Council of <hi>Nice,</hi> where one <hi>Paphnutius</hi> withſtood the whole Council, conſiſting of three hundred and eighteen Biſhops, and convinced them all: And Parliaments may (as we have ſeen) be ſometimes <hi>wiſe,</hi> and ſometimes <hi>otherwiſe.</hi> True ſpiritual Wiſ<g ref="char:EOLhyphen"/>dom, which is from above, accords with the Scriptures; but that which is beneath Scripture, and cannot be warranted by it, is <hi>earthly, earnal, ſenſual and deviliſh, and enmity againſt God.</hi> I have already told you in a former diſcourſe, that Convocations and Parliaments have nothing to do to make Laws for Chriſt's Kingdom, that's on his ſhoulders; that were to charge him with want of wiſdom, and his Laws with imper<g ref="char:EOLhyphen"/>fection: For the ſouls of men and women he alone is the Law-giver, or elſe what Law-giver is he?</p>
+               <p>The Magiſtrates power extends no further than to the outward man, to require obedience in Civil things; neither can Great men (as we ſee) reform themſelves; Convocation-men nor Parliament-men, they may aſwell undertake to ſanctifie, juſtifie, or glorifie a ſoul, as to reform a ſoul: Sanctification is the work of the Spirit, Juſtification the work of God's Free-Grace, by the imputation of Chriſt's Righteouſneſs, Glori<g ref="char:EOLhyphen"/>fication the work of the Father; Chriſt dying for man is his redemption, Chriſt living in man is his reformation. What is the Magiſtrates place
+<pb n="11" facs="tcp:99201:10"/> then? only to encourage, protect, keep peace, and puniſh open and groſs offenders.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, doth not this derogate from the honour of a Magiſtrate, if his power extend only to temporal things?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, if <hi>Caeſar</hi> have his due he can require no more; and it would exceedingly redound to the honour of a Magiſtrate, to give Chriſt the hononr of his own Kingdom, to whom all honour appertains: The time will come when the Kings of the Earth ſhall bring their honour and glory into it.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, the Kings of</hi> Iſrel <hi>did things of this nature, as</hi> Jeho<g ref="char:EOLhyphen"/>ſaphat, Joſiah, <hi>&amp;c. reformed many things in the Church in thoſe dayes, why may not Magiſtrates do the like now?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, The Kings of <hi>Iſrael</hi> were Types of Chriſt in their Govern<g ref="char:EOLhyphen"/>ment, ſhadowing forth him who was to have the Government of his <hi>Iſrael,</hi> his <hi>Church,</hi> which is his Kingdom, according to old <hi>Jacob's</hi> Pro<g ref="char:EOLhyphen"/>pheſie, <hi>The Scepter ſhall not depart from</hi> Judah, <hi>nor a Law-giver from be<g ref="char:EOLhyphen"/>tween his feet until Shilo come:</hi> and now <hi>Shilo,</hi> which is the King of Peece, is come, all other Regal power over the Church is ceaſed.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>
+                  <hi>But Husband, there were no Chriſtian Magiſtrates in Chriſt's time to commit the Government unto, which may ſeem to altar the caſe, and the Apoſtle biddeth us ſubmit to every Ordinance of man for the Lord's ſake.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife, If Chriſt had ſeen Chriſtian Magiſtrates neceſſary for the Government of his Kingdom, he could as eaſily have turned the hearts of Kings and Emperors, as he could the owner of the Aſs to ſend her at his demand, or brought the Fiſh to the Angle with money in his mouth to pay Tribute to <hi>Caeſar.</hi> And whereas the Apoſtle bids, <hi>Submit &amp;c.</hi> he means only in Civil things; otherwiſe if <hi>Auguſtus</hi> and other <hi>Heathen</hi> Emperours under whom they lived, had commanded them to have wor<g ref="char:EOLhyphen"/>ſhipped their Heathen gods, they muſt have committed Idolatry: But <hi>Nebuchadnezzar</hi>'s Act of uniformity, and <hi>Daniels</hi> reſiſting to obey, cleers up the caſe fully.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>
+                  <hi>Huſband, How came the Power then to be re inveſted in the Ma<g ref="char:EOLhyphen"/>giſtrate?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife I'le tell you, The Pope pretending himſelf to be <hi>Chriſt</hi>'s Vicar General, aſſumed the power of making Laws for the Church, and all matters concerning the Church was there determined; as we may ſee King <hi>Henry</hi> the eighth could not put away his VVife without Licence from <hi>Rome:</hi> The King caſhiering the Pope, the Power came to be in<g ref="char:EOLhyphen"/>veſted in him, and ſo ſucceſſively: but good VVife talk of ſomewhat elſe.</p>
+               <pb n="12" facs="tcp:99201:11"/>
+               <p>W. <hi>Husband, I heard that the Biſhop lately conſeorated a Font in the Cathedral Church, newly erected there; it ſeems it is made with rings to be carried about from place to place, that when they move houſhold, as 'tis hoped they will er't be long, they may carry it with them: But in what manner was it conſecrated, and whence came this Conſecration?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, for the manner (as I was told) thus; The Biſhop had the <hi>Common-Prayer-Book</hi> held over the Font, [one Idol over another] and a prayer written in a peice of paper in his hand, which he ſaid; and the Doctors of the Church very devoutly kneeling about it, joyned with him in the performance of the duty. The Silver Bowl, brought three miles by the hand of the <hi>Churchwardens,</hi> by the ſober advice and diſ<g ref="char:EOLhyphen"/>cretion of that learned man Doctor <hi>Horwood</hi> the Parſon of the place, was alſo conſecrated. The Braſen Candleſticks were conſecrated by Mr. <hi>Hanſlip,</hi> both Reader and Chantar, after what manner I know not, but, if it were done with a <hi>Noddy-board,</hi> with which he is a dexterous man, it was aſwel done as with the <hi>Noddy-book;</hi> But to tell you from whence it came, as two <note n="†" place="margin">
+                     <hi>Sabellicus. Platina.</hi>
+                  </note> Popiſh Authors affirm, from Pope <hi>Pius</hi> the firſt, who conſecrated Fonts in the year 145. The old Church Rubrick, which I have ſeen, retains the form; <hi>Exorcizo te creatura ſalis et aquae, per Deum vivum et ſan<g ref="char:EOLhyphen"/>ctum, &amp;c.</hi> I adjure thee, O thou Creature of Salt and Water, by the holy and living God, &amp;c. in a moſt fearful manner, it would make one tremble to read it, for it's little different from <hi>Conjuration:</hi> ſome ſay and call it <hi>Conjuration;</hi> the Font, the <hi>Conjured Font.</hi> If we take it from <hi>Pius</hi> it muſt needs be <hi>Popiſh</hi> and <hi>Antichriſtian:</hi> If from <hi>Moſes</hi>'s conſecration of Veſſels and Altars, &amp;c. then it is a denying the Prieſt<g ref="char:EOLhyphen"/>hood of Chriſt; for <hi>Moſes</hi> was a Prieſt aſwell as King and Prophet, as appears by his making an Atonement for the People; and they may aſwel offer a <hi>Ram</hi> or any other Sacrifice, as uſe Conſecration: they en<g ref="char:EOLhyphen"/>deavour by their practice to build up the Partition-wall of the Temple broken down, and pull from the Croſs the Ordinances which Chriſt hath nailed thereunto. What have we to do with things under the firſt Covenant? and they ſhew themſelves ſuperſtitious and prodigious Dunces.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>
+                  <hi>But the Biſhops of</hi> Rome <hi>were good Biſhops (they ſay) for 500 years after Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife. The bringing in of theſe things was no part of their good<g ref="char:EOLhyphen"/>neſs, they brought in one thing after another, until Superſtition brought forth Idolatry.</p>
+               <pb n="13" facs="tcp:99201:11"/>
+               <p>W. Obj. <hi>They ſay that the Church hath power to order ſuch things as to their judgment ſhall ſeem fit and requiſite.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, The Church hath no power to order any thing but what is already ordained. There is a Bird called a <hi>Hickwal,</hi> I have com<g ref="char:EOLhyphen"/>monly ſeen them, and two of them will build in one Neſt: And in this the Church of <hi>Rome</hi> and the Church of <hi>England</hi> are ſiſter <hi>Hickwalls,</hi> they build both in one Neſt, <hi>The Church;</hi> and then we muſt believe in the Church. But I'le tell you one thing, which I ſhould have told you before, but you prevented me by a queſtion; there is a Village in <hi>Glouceſter-Shire</hi> called <hi>Nimphfield,</hi> there remains the ruines of a Chap<g ref="char:EOLhyphen"/>pel, I have ſeen it, and as the preſent Incumbent told me, it was dedi<g ref="char:EOLhyphen"/>cated to St. <hi>Anthony;</hi> we have his name in a Proverb, <hi>Like a Tantony Pigg.</hi> It's conceived he was a good Pigg-drencher, as famous as <hi>Bac<g ref="char:EOLhyphen"/>chus</hi> and <hi>Ceres</hi> among the <hi>Heathen,</hi> whom they deified, being excellent for planting of <hi>Vines</hi> and breeding of. Corne. In this Chappel, at the upper end of the Chancel near the Table, was the Picture of a great <hi>Boar</hi> upon the wall, and a Font in the Chappel, which as ſome of the moſt ſufficient in the Pariſh told me, they took cut of the Chappel and placed in the Church, where it ſtill remains: If St. <hi>Anthony</hi> did ei<g ref="char:EOLhyphen"/>ther feed his Piggs, or lodge his Piggs, or waſh his Piggs in it, it was aſwel conſecrated as if the Biſhop had done it. At <hi>Salperton</hi> in <hi>Glou<g ref="char:EOLhyphen"/>coſter-Shire</hi> as ſome of the Pariſh have told me, the Prieſt's means were very ſmall, they had one who was both Prieſt, and Shepherd to keep Sheep, a very diligent man in his place; up he would betimes on a Sunday morning (as they call it) in Summer-time when the <hi>Fly</hi> was buſie, dreſs his Sheep, come to Church, and put his Tar-box in the Font, and ring the Bell, I am perſwaded it was as well conſecrated as if the Biſhop had done it, for I take the ſmell of a Tar-box to be as wholſome as the Biſhops breath.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Fic, fie, Husband, do not ſay ſo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, do you think I would miſ-inform you, or my Children ei<g ref="char:EOLhyphen"/>ther; for Superſtition ſtinks worſe than either a Pigg or a Tar-box.</p>
+               <p>I did not tell you how the Reverend <hi>Wren,</hi> Biſhop of <hi>Ely,</hi> Conſe<g ref="char:EOLhyphen"/>crated the Chappel, at <hi>Ely-Houſe:</hi> he perfumed it with Superſtition, which as he conceived might be an Antidote or preſervative againſt the infection which might be left there by honeſt men who had preached the Goſpel; being a man of that ſweet diſpoſition, much like the <hi>Fly,</hi> which in Summer will ſuck and feed upon an excrement, and let the ſweeteſt Flowers alone; but if ſuch ſuperſtitious <hi>Fly-Blows</hi> be let alone they will quickly come to be <hi>Idolatrous Maggots.</hi> He conſecrated likewiſe the Cathedral Church at <hi>Ely,</hi> and celebrated Pope <hi>Clements</hi> Ordinance, Pope <hi>Melciades</hi> Sacrament, Confirmation or Biſhoping, with which the
+<pb n="14" facs="tcp:99201:12"/> Boyes were ſo well affected, that to the number of fourty of them ga<g ref="char:EOLhyphen"/>thered themſelves together and Confirmed two Maſtive Doggs. Like<g ref="char:EOLhyphen"/>wiſe one Boy brought two <hi>Wreuns</hi> to be confirmed, but the reſt of the Boyes denying them the benefit of that Ordinance; cryed out unani<g ref="char:EOLhyphen"/>mouſly, <hi>Pluck off their heads, pluck off their heads, they may come to be Biſhops in time!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Good Husband be ruled by me; let the Biſhops alone, they'l have you in Lobs-Pound one of theſe dayes, and put a Stony Dublet upon your threed<g ref="char:EOLhyphen"/>bare Coate: They are men who pretend they love the King above any.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife they love the King juſt as the <hi>Ivie</hi> loves the <hi>Oak.</hi> The <hi>Ivie</hi> is one of the beſt friends the <hi>Oak</hi> hath, it ſpreads its branches, em<g ref="char:EOLhyphen"/>braces, clips, and huggs the <hi>Oak,</hi> but all this while draws ſap from, and is nouriſhed by him, its love is but for it ſelf. We know that <hi>Ivie</hi> is good for little but to harbour a company of dim-ey'd creatures, cal<g ref="char:EOLhyphen"/>led <hi>Owls;</hi> as we ſay in a Proverb, <hi>Like an Owl in an Ivie Tree:</hi> and ſo do they love the King and kindly embrace, and with pretended affecti<g ref="char:EOLhyphen"/>ons and plauſible terms expreſs themſelves, becauſe they draw ſap from him; and are good for little but to harbour a ſort of blind Prieſts, as very Moles as themſelves; 'tis but Cupboard-love, all for the belly: For man can be but for himſelf in every action, until the Love of God be wrought in him. Every good thing, the <hi>Philoſopher</hi> tells us, is of a dif<g ref="char:EOLhyphen"/>fuſive nature; fire and water are communicable creatures: So is Love when it proceeds from a right principle. I cannot parallel their love to the King more fitly, than in my love to you. I ſaw that in you which as I conceived might make me happy, and did much affect me; one of a good report, of a ſober life, and hanſome carriage, with other en<g ref="char:EOLhyphen"/>dowments; I gave you good words, and cogg'd and daub'd as faſt as they (it may be) and all this while I was but my ſelf in it; Poor woman, it had been better for you if you had never ſeen my face: So may the Majeſtical <hi>Oak</hi> ſay one day, <hi>Would I had never ſeen the face of Dr. Ivie.</hi> I have ſeen a ſtately <hi>Oake</hi> flouriſh without an <hi>Ivie-buſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband I pray you be ſaber in your expreſſions, and be not bitter to<g ref="char:EOLhyphen"/>wards them; we ſhould love our enemies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, I am not a man of that frame or temper of ſpirit, like Sir <hi>Jocelin Pearcie,</hi> who after the Gunpowder-Treaſon, brake out into great laughter, and being demanded wherefore he laughed? anſwered, <hi>I cannot but laugh to think (if the deſign had took) how the Biſhops would have flown up in the air like ſo many Magg-Pies.</hi> Seriouſly Wife, I love their Perſons although I hate their Pybald Worſhip. I wiſh their eter<g ref="char:EOLhyphen"/>nal welfare, and that they would cry down the ſins of the times, Ido<g ref="char:EOLhyphen"/>latry, Superſtition, Swearing, Whoring, fearful Imprecations, <hi>Dam<g ref="char:EOLhyphen"/>mum</hi> and <hi>Rammuns, The Devil fry my ſoul in Brimſtons, &amp;c.</hi> which are
+<pb n="15" facs="tcp:99201:12"/> fit materials to build Fortifications againſt the Invaſion of Mercles, and will ſerve as fitly to draw the floodgates and ſluces for the incur<g ref="char:EOLhyphen"/>ſion and bringing-in of Wrath and Vengeance; and will do more miſ<g ref="char:EOLhyphen"/>cief than the Walls of <hi>Northampton, Coventry,</hi> or <hi>Glanceſtor,</hi> if re-ſtand<g ref="char:EOLhyphen"/>ing. To keep up ſin, and throw down ſtones, is but poor policy. When the Children of <hi>Iſrael</hi> ſerved ſtrange gods, then there was war in the gates. And let them give over the proſecution of the <hi>Phanaticks,</hi> for they'l never give over praying until they have prayed them down. Let them remember the Queen of <hi>Scots,</hi> in <hi>Edward</hi> the ſixh's dayes (as I take it) who ſent an Army into <hi>England,</hi> but before ſent privily to know which ſide <hi>John Knox</hi> and his party took, ſaying, <hi>She feared more the Prayers of him and his party, than all the Kings Army.</hi> And ſet our mode<g ref="char:EOLhyphen"/>rate Biſhop leave his conjunction with his near relation the <hi>Papiſt,</hi> in ſaying that the <hi>Presbyterians</hi> were like <hi>Lorinus</hi> the Jeſuite, who held it lawful to take away the life of Princes, Let him mind his brother <hi>Gau<g ref="char:EOLhyphen"/>den</hi> Biſhop of <hi>Wotceſter,</hi> who ſaid that the <hi>Presbyterians</hi> were like the diſ<g ref="char:EOLhyphen"/>ceaſe called the <hi>Strangury,</hi> which was froth on the top, and blood in the bottom, [of which diſeaſe himſelf dyed] and his predeceſſor Dr. <hi>Good<g ref="char:EOLhyphen"/>man,</hi> who made this Confeſſion, dying in the <hi>Imbrit</hi> at <hi>Weſtminister, That he died a Roman Catholick:</hi> But to give the Patriarch his due, I think he was one of the beſt of them. But how can there be a <hi>Superlative</hi> where there is no <hi>Poſitive, a baſt</hi> where there is not a <hi>good?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, we have talk though of this, will you ſpeak of Doctor</hi> Warmſtrey's <hi>Opinion, Dean of</hi> Worceſter?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, which of his Opinions do you mean? either that which he delivered about obſervation of Holy-dayes, from <hi>David</hi>'s Example; <hi>When I ſee the Moon and the Stars which thou haſt ordained:</hi> David (as he ſayes) walking forth in the night took ſpecial obſervation of the Stars placed in the Firmament; ſo ſhould we take ſpecial obſervation of the Saints, who have been as Stars in the Firmament of the Church, and therefore a day of Solemnity in commemoration of them we ſhould not let paſs. Or (2dly) do you mean that opinion of the obſervation of <hi>Lent,</hi> from the example of <hi>Danel's</hi> eating of Pulſe and drinking of water for certain dayes, and from that example of his would ground the obſerva<g ref="char:EOLhyphen"/>tion of <hi>Lent?</hi> If you mean either of theſe; I ſhall ſay nothing but this, If he had grounded his opinion from <hi>Fortune my foe, why doſt thou frown on me?</hi> or the other, <hi>In the dayes of old when fair France did flouriſh;</hi> theſe places would have held out the truth of his opinions aſwel as thoſe Texts of Scripture. Or (3dly) do you mean Local the ſcenſion, which he holds, that Chriſt went down into Hell, into the place of the damned, in me hamine body? Or (4thly) That the Doctor hath power to forgive ſion, not alone declaratively, but abſolutely. If theſe, I'le not adventure to
+<pb n="16" facs="tcp:99201:13"/> deal with him, for I know the Pope will take his part; and two to one is ods at Footbal; I being but one poor man, they may be too hard for me.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>No Husband; Neither do I mean his crying down of</hi> Glouceſter <hi>for a bloody City, and for Rebellion, that he did paſſing well, he could not but deliver the Meſſage, he was ſent for that purpoſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife, you ſay he did it paſſing well; I pick ſomething out of that word of yours, <hi>paſſing well;</hi> but I'le ſay no more: But I wonder he ſtaid ſo long before he brought the Meſſage. None of all the Lord's Prophets had ſo much time given them; when they were ſent forth, their Commiſſions were preſently to be put in execution. The young Prophet muſt neither eat bread nor drink water before he was to deli<g ref="char:EOLhyphen"/>ver his Meſſage; but the <hi>Doctor</hi> ſtaid fifteen years before he brought his. It's to be ſuſpected whether he be not guilty of the <hi>Rebellion;</hi> much miſ<g ref="char:EOLhyphen"/>chief might have been prevented had not he delayed time; but when all was paſt and ended, then comes this Prophet with his Meſſage, <hi>Cenſiti<g ref="char:EOLhyphen"/>um poſt facta imber poſt tempora fiugum,</hi> as the Poet ſpeaks, <hi>Counſel after the fact is like a ſhower of rain after Harveſt to fill the Corn</hi> When the <note n="†" place="margin">
+                     <hi>Gunpowder-Treaſon.</hi>
+                  </note> Traytors were hang'd, then came the Pope's Pardon. But he came not until the Meſſage would bring meat in the mouth of it, his Prebends place at <hi>Gloaceſter,</hi> and a thouſand pounds for the Crop (as his man calls it) and 2001. <hi>per annum at Hampton,</hi> with his Meſſage altogether chopt in his mouth, it's a wonder it had not choak'd him. What's become of all thoſe ſouls which died in thoſe fifteenyears? the comfort on't is, if in <hi>Purgatory,</hi> he is or may be as prevalent a man with the Pope to ſetch them forth as any I know.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, name that about a man killing his own Father.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife, I underſtand now what you mean, thus; <hi>That it is a leſſer ſin for a man to kill his Father, than for a man so refrain coming to the Divine Service eſtabliſhod in the Church,</hi> in regard of the Ceremonies) <hi>The one was he killing of a particular perſon, the other made a breach in the Myſtical Body of Chriſt.</hi>
+               </p>
+               <p>Firſt, Let us conſider what a ſmole is to kill a man; The Ox that had goared a man in the time of the Law, his fleſh was not to be eaten, but to be burnt, the Lord ſhewing his diſpleaſure thereby againſt <hi>killing.</hi> Next conſider, that there was no Atonement to be made for Murder; in ſhort, the <hi>hornt</hi> of the <hi>Altar</hi> muſt nemo protection for <hi>Joab</hi> in the caſe of <hi>Amaſu</hi> and <hi>Abnor</hi> The killing man's own Father, the ſin by circumſtance <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> an aggravation; to kill a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ont that hath been a means to bring him into the world and to breed him up <hi>What <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> my Son</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from a Son is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> than all the reſts <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with
+<pb n="17" facs="tcp:99201:13"/> ſpeak of the Myſtical Body, and what he means by it.</p>
+               <p>I conceive he means the Worſhip that is performed in the Cathedral Churches and Colledges, which he himſelf doth frequent, and where the Biſhops, Deans, Archdeacons, Doctors, Chancellors, Canons, Demicanons, Prebends, Organiſts, Singing-men and Boyes, Sexton, Vergerers, Readers, as in <hi>Powls,</hi> the Altar with the Appurtenances, and the Cherubims over the Altar, Baſins a leſſer and a bigger, with the Crucifix in it; the Virgin with the Babe in her arms, Organs, Bell, Carpetting, Candleſticks, Scarlet and Purple Hangings, Tapeſtry, Veſtments, Velvet Cuſhions, Capps, Copes, Tippets, Surplices, the Book of Common-Prayer, as the matter and form thereof; the Chan<g ref="char:EOLhyphen"/>cellors Court for the Government thereof: All this approved of by the Convocation, the repreſentative body of the Church of <hi>England,</hi> and all the Pariſh Churches in <hi>England</hi> by their Miniſters ſubſcription and ſubordination; this is the <hi>Myſtical Body</hi> of Chriſt, according to the judgment of that Reverend Patriarch, Dr. <hi>William Warmstrey</hi> Dean of <hi>Worceſter:</hi> and whoſoever (in regard of the Ceremonies) ſhall ſeparate from this Church, it's a leſſer ſin for a man to kill his Father. Wife, what think you of this <hi>Myſtical Body?</hi> is it like the Church of Chriſt un<g ref="char:EOLhyphen"/>der the Goſpel? is this a Tabernacle of the Lord's pitching? is ſuch a Church, for the conſtitution of it, to be found in <hi>Magna Charta?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, I am not willing to ſay much, but it is not as it ſhould be.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, you are alwayes like your ſelf, Modeſt.</p>
+               <p>But for your further ſatisfaction, conſider, it hath been ſaid by one, that there are two Images of God; the one is his <hi>Word,</hi> the other his <hi>Spirit.</hi> If the ſpirit in man break not forth according to the outward Image of his VVord, ſuſpect that ſpirit to be rather Deviliſh than Di<g ref="char:EOLhyphen"/>vine: So let me ſay of this <hi>Myſtical Body,</hi> if it be according to the Image of the Word, according to the conſtitution thereof, it's the Church of Chriſt, otherwiſe it's the Church of <hi>Antichriſt.</hi> And ſo for the Wor<g ref="char:EOLhyphen"/>ſhip, if it be not according to the Word, it is Antichriſtian: For as I told you in our laſt diſcourſe by the fire, as is his VVord ſo muſt his VVorſhip be, ſincere, <hi>quaſi ſine cera,</hi> without mixture or compoſition of humane invention. I'le tell you of what this Church or <hi>Myſtical Body</hi> may carry a fit reſemblance, that which the Phyſitians call <hi>Mola,</hi> a falſe Conception, never begotten by any ſeed: Neither was this <hi>Myſti<g ref="char:EOLhyphen"/>cal Body</hi> ever begotten by any Immortal Seed of the Word. This <hi>Mola</hi> or falſe Conception, is that which the Country Midwives call a <hi>Moon-Calf,</hi> bred in the womb by ſome natural cauſes, and at certain ſeaſons of the Moon increaſed, the manner or by what, becomes not the modeſty of my Pen to deſcribe: So was this <hi>Myſtical Body</hi> bred in
+<pb n="18" facs="tcp:99201:14"/> the womb of the old Whore; and as that uſually is brought forth in the night by the aſſiſtance of a Midwife, ſo was this at midnight in times of darkneſs, dame <hi>Gillian</hi> being the Midwife. <hi>Polidorus Durandus</hi> writes that in the year 175, Pope <hi>Damaſus</hi> brought in the preſcript order of Service. <hi>Durandus</hi> ſaith, that in the year 1073, Pope <hi>Gregory</hi> the 7th brought in the preſcript number of Pſalms and Leſſons; Pope <hi>Zacha<g ref="char:EOLhyphen"/>rius Vitalianus, Clement, Adrian,</hi> and the reſt of the Popes ſucceſſively, made an addition, until they bred it unto a very <hi>Mooncalf,</hi> Nay, <hi>Mon<g ref="char:EOLhyphen"/>ſtrum horrendum, in forme ingens, cui lumen ademptum,</hi> a mighty ill-ſhap'd fearful Monſter, quite blind, for it hath ho light but what it receives from the Candles, and that is but greaſie light: As a man not far from us, in Holy Orders, ſaid, carrying a pound of Candles through a Village upon his head, <hi>This is the Light of the World.</hi>
+               </p>
+               <p>I could willingly ſpeak a word of ſome of the particulars, and what the <hi>Doctor</hi> hath ſaid himſelf concerning the Altar, in a ſpeech he made in the Convocation-houſe, where he himſelf ſate (as I take it) <hi>Anno 1639.</hi> I took it out of the printed Paper which he himſelf put forth. <hi>Next unto the language of the Apoſtles and the Scriptures, moſt pure is the language of the Primitive times, and there I find no Altar but the Altar of Chriſt crucified.</hi> Again, <hi>I love outward reverence, ſo that it be directed to right objects; not to Images, nor to Altars, but to God himſelf.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, he bows now to the Altar himſelf, and ſaith what he ſaid then was in the time of his Ignorance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, and what he doth now is ſince the god of this world hath blinded his eyes. Pope <hi>Sixtus</hi> inſtituted Altars, <hi>Anno 125.</hi> and Pope <hi>Felix</hi> conſecrated Altars, <hi>Anno 271.</hi> at which time they began to be worſhipped (as it is conceived); as our Reverend Biſhops, Doctors and Dunces do at this day.</p>
+               <p>A word of their Veſtments and Ornaments. I remember a ſaying of <hi>Tertullian</hi> which I have read: <hi>Nihil dandum Idolo, ſic nec ſumendum ab Idolo, ſi in Idolo recumbere alienum eſt a fide, quid in Idolio videri;</hi> as we may give nothing to an Idol, ſo we may take nothing from an Idol. If it be againſt the Faith to ſit at meat at an Idols Feaſt, what is it to be ſeen in the Habit of an Idolater? <hi>Accedunt apparatuet armamento Myſtici Corpotis Antichriſti,</hi> they go in the Apparrel and Harneſs of Antichriſt, ſaith <hi>John Hus.</hi> Dr. <hi>Ridly,</hi> who ſtood for theſe things in King <hi>Edwards</hi> time, yet when the time of his death approached, and he muſt put on the Popiſh Garments to be degraded, which he refuſed, but Biſhop <hi>Brocks</hi> cauſed them to be forced upon him, whereupon he did vehemently in<g ref="char:EOLhyphen"/>veigh againſt the Pope, calling him <hi>Antiohriſt,</hi> and all that Apparrel, <hi>fooliſh and abominable;</hi> yea, <hi>too fond for a Vice in a Play,</hi> as he ſaid.</p>
+               <p>To ſpeak of the Croſs, which hath been made an Idol, and by many
+<pb n="19" facs="tcp:99201:14"/> Councils approved, and ſtill in uſe to this day by the Formaliſts, where<g ref="char:EOLhyphen"/>in they much differ; it were well if poſſible there might be an unifor<g ref="char:EOLhyphen"/>mity in the uſe of it: Some croſs with the hand, ſome with the finger; others uſe the words, but never put to hand or finger: it were a matter of ſome importance for the <hi>Convocation</hi> at their next ſeſſion to determin, or elſe to be referred to <hi>Rome</hi> for the right uſe of it, and to the Croſs on the Popes triple Crown for the dimenſions of it, being the true ſtandard. But a word ſeriouſly, thus: Whatſoever hath been imployed to Idola<g ref="char:EOLhyphen"/>trous uſes, ought never to be imployed in the Worſhip and Service of God. The brazen Serpent when once it came to be idolized, down it muſt; and the <hi>Iſraelites</hi> when they came into <hi>Canaan</hi> muſt deſtroy all the Monuments of Idolatry, without exception of the Grove which <hi>Abraham</hi> had planted; and the <hi>Cenſors,</hi> although not imployed to Idolatry, yet being polluted by the hands of <hi>Corah</hi> and his accomplices, muſt never be uſed again as <hi>Cenſors,</hi> but muſt be cut out into plates to make Cover<g ref="char:EOLhyphen"/>ings for the Altar. If things of lawful Inſtitution, once abuſed, muſt ne<g ref="char:EOLhyphen"/>ver be imployed in the Worſhip of God, can theſe things which are of Idolatrous &amp; Superſtitious uſe be leſs than abominable? The Common-Prayer-Book being none of Chriſt's Inſtitution, as it never came from Heaven, ſo it never reached Heaven; neither do men ever look for any return of this Prayer, more than the Biſhop and Doctors of our Cathe<g ref="char:EOLhyphen"/>dral, when the four condemned Priſoners ſent to them to be prayed for; poor ſouls, eſteeming the prayers of ſuch devout men to be moſt avail<g ref="char:EOLhyphen"/>able to do them good; poor Mr. <hi>Williams</hi> (a man qualified with abilities to reade, but never ſaid Sermon in all his dayes, but a man in Holy Orders, and a fair Gamſter at Tables, at which exerciſe he ſpent much of his time, but commonly all for dry Ale) he muſt perform this cha<g ref="char:EOLhyphen"/>ritable work; and taking the Book, looking out the Prayers appointed to be ſaid at the <hi>Viſitation of the Sick,</hi> goeth on to the concluſion, which he read, <hi>Lord look upon theſe thy ſick ſervants, whom thou haſt viſited with thy hand; viſit them as thou didſt</hi> Peter's <hi>Wives mother, and the Centurians ſervant. Reſtore theſe ſick perſons to their former health, if it be thy bleſſed Will, if not, give them grace to take this thy viſitation, &amp;c.</hi> the men were only ſick of the Halter, of which diſeaſe they ſoon after dyed. The Re<g ref="char:EOLhyphen"/>verend Biſhop and Doctors departed, without putting up any further re<g ref="char:EOLhyphen"/>queſt for them. Mr. <hi>Williams</hi> being demanded, wherefore he made uſe of that Prayer? anſwered, <hi>he could not find a fitter in all the Book.</hi> Equivalent to ſuch praying is the praying of the <hi>Cryer,</hi> he looks for no more return of his prayer than the Biſhop and Doctors, and the Biſhop and Doctors no more than the Cryer. <hi>If any man can tell any tale or tydings of a grey Nag, bay Mare, Greyhound-Bitch, Pottle-Pot, or Maſtive-whelp with a cut tayl,</hi> by and by he annexeth a prayer, <hi>God ſave the King.</hi>
+               </p>
+               <pb n="20" facs="tcp:99201:15"/>
+               <p>The Chancellor's Court <hi>(whilſt I ſpeak of it, turn your noſe to the Pil<g ref="char:EOLhyphen"/>low, Wife, leſt it offend you)</hi> for the Government of this <hi>Myſtical Body</hi> is the very ſame that is through the whole <hi>Roman</hi> Monarchy, and as when the Pope ſent over his Collectors into <hi>England,</hi> promiſing for ten ſhil<g ref="char:EOLhyphen"/>lings (and not a peny leſs) a man might have pardon for his ſins, and fetch ſouls out of Purgatory, <hi>Omne venale Romae;</hi> and as at <hi>Rome,</hi> ſo here, every thing for money: a Licence to kill or dreſs fleſh; a Licence to marry for ſuch a ſum of money, not a peny leſs; nay a <hi>Churchwarden</hi> cannot hazard his ſoul upon the rock of Perjury but muſt pay money: for ſix pence, take him Devil.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, did you hear what was the matter with the Chancellor the other day?</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>No, Husband, what did ayl him?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Ayl him, Wife, why enough did ayl him; take away his gods, and ask what did ayl him! the two Book-ſellers in <hi>Glouceſter</hi> ſold the ſuppoſed Papers of Mr. <hi>Prin,</hi> which told the Country, <hi>That they might chooſe whether they would anſwer to a Plea in Court, unleſs they could ſhew the King's Broad-Seal for their Authority; and that no Court of Judicatory could be held but in the Kings Name.</hi> Poor <hi>Demetrius</hi> was like to have his trade ſpoiled, which coſt him many hundreds of pounds as he ſaid, and complained to the Magiſtrates and Biſhops; How the Bookſellers came off I know not, they were queſtioned. Sir <hi>Thomas Roe</hi> Em<g ref="char:EOLhyphen"/>baſſador in King <hi>James's</hi> dayes, coming into a place where St. <hi>Pauls</hi> Mo<g ref="char:EOLhyphen"/>nument (as they ſaid it was) and pretending that his Spurs hurt him, put them off his own, and put them on St. <hi>Pauls</hi> heels: being demanded wherefore he did it, he ſaid, <note n="†" place="margin">It coſt the King another Embaſſa<g ref="char:EOLhyphen"/>dor to fetch him home.</note> 
+                  <hi>That he knew St.</hi> Paul's <hi>mind, he was willing to be gone, he ſees ſo little honeſty in this place.</hi> And if he ſaw the equity of this Court, he would as ſoon take his leave.</p>
+               <p>Sir <hi>Thomas Overbury</hi> in his Characters ſaith, <hi>That the Hangman and the Jaylor are Twins, they tumble both in one belly, they live by the Miſe<g ref="char:EOLhyphen"/>ries of others.</hi> So are the Officers of this Court as near in relation. I ſhall end this with the ſtory of the <hi>Lady</hi> who ſent a man to a Biſhop with a Letter, deſiring him to entertain the meſſenger as an <hi>Aparitor,</hi> for he was a <hi>very honeſt man.</hi> The Biſhop told the meſſenger that his Lady had ſpoyled all by ſaying <hi>he was an honeſt man,</hi> for (quoth the Biſhop) <hi>We muſt have the [verieſt Knave] we can get.</hi> If the <hi>leaſt</hi> Officer be a <hi>Knave,</hi> what muſt the <hi>great</hi> ones be?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, what think you of all this Geer? P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ethee <hi>Sweet-heart</hi> tell me the ſtory of the green Dogg which your Uncles maid told us of.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, I'le tell you, for I know the place very well, I lived within</hi>
+                  <pb n="21" facs="tcp:99201:15"/> 
+                  <hi>two miles of it many years. There was a man went to a Village two miles from the place where he lived, and there ſaw a Dogg which he had a mind unto, and coming near him made much of him, and brought him away with him home to his own houſe, uſed him kindly, fed him well, and tied him up for a time, and called him by another name; reſolves to take him abroad with him to the place from whence he had him and for fear his old Maſter ſhould know him, colours him green: The new Maſter now will adventure his Dogg among his old acquaintance; the Neighbours admire the Dog, thought ſurely it had been a ſpirit; at laſt his old Maſter ſeeing him, began to ſuspect that it was his old</hi> Whitefoot: <hi>The Dog went to his old Maſter and ſawned upon him, and then his Maſter knew that it was his old Dog new dy'd.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, I think you are in the right, 'twas juſt as you have ſaid: I'le tell you how, and to what I could apply it. This Trumpe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y or Worſhip with its appurtenances, call it what you will, was taken up at <hi>Rome,</hi> brought over to <hi>England,</hi> and very good allowance was given it for a long time, and made much of it, coloured it with ſpecious Titles, <hi>[the Lyturgie of the Church of</hi> England, <hi>&amp;c.]</hi> and made it look very ſpi<g ref="char:EOLhyphen"/>ritual, gave it a name, called it <hi>Divine Service, &amp;c.</hi> Away it was gone home again to <hi>Rome</hi> from whence it was taken, by the ſpace of twenty years, and we thought we ſhould never have ſeen it again; And now the Biſhops have brought it back again, and all this while 'tis but the old Dog new dy'd, old <hi>Whitefoot.</hi>
+               </p>
+               <p>We will now talk of the Officers of this <hi>Myſtical Body, viz.</hi> the Arch-Biſhop of <hi>Canterbury,</hi> to his honour be it ſpoken, <hi>&amp;c.</hi> In the year 1098, Pope <hi>
+                     <g ref="char:V">Ʋ</g>rbanus</hi> ordained <hi>Canterbury</hi> to be the chief Patriarchal Seat. In the year 1099, <hi>
+                     <g ref="char:V">Ʋ</g>rbanus</hi> ſet <hi>Anſelm</hi> the ſecond of that name, Archbiſhop of <hi>Canterbury,</hi> at his tight foot in his Council at <hi>Rome,</hi> and in theſe words ordained him, <hi>Includamus hunc noſtro in orbe tanquam alterius orbis Papam;</hi> We take in this Pope in our world, as a diſtinct Pope of another world. Some conceive that the attribute of <hi>Grace</hi> was conferred then upon <hi>Canterbury,</hi> which makes the Pope and Arch-Biſhop as nearly re<g ref="char:EOLhyphen"/>lated as Grace and Holineſs, which are inſeparable, and yet true Grace and Holineſs as far diſtant from, either as <hi>Canterbury</hi> from <hi>Rome</hi> or <hi>Rome</hi> from <hi>Canterbury.</hi> As for the leſſer buggbear Biſhops, who are petty Popes in their Dioceſſes, they are not worth the ſpeaking of; The old <hi>Nonconformists</hi> long ago ſaid, in their <hi>Admonition to the Parliament,</hi> that we may by the Warrant of God's Word as ſafely ſubſcribe to allow the dominion of the Pope univerſally over the Church of God, as an Archbiſhop over a Province, or a Lord-Biſhop over a Dioceſs. As for Archdeacons, Deans, <hi>Brats</hi> of the <hi>old Whore,</hi> I could commend unto them an Epiſtle taken out of Sir <hi>Richard Barkelay's Summum Bonum,</hi> pag. 213. <hi>An Epiſtle of Beelzebub Prince of Devils, and Duke of Darkneſs,</hi>
+                  <pb n="22" facs="tcp:99201:16"/> 
+                  <hi>with all his Guard, and all the Potentates of Hell, To all Arch-Biſhops, Abbats, Prelates, and Rulers of Churches, his well-beloved friends now and for ever, Infernal Salutation and League of inviolable Society which can never be diſſolved: We repoſe great confidence, my wel-beloved Friends, in your Amity: we rejoyce much in you, becauſe you agree very well in Opinion with <g ref="char:V">Ʋ</g>s, and that you ſeek and procure with diligence thoſe things that be Ours, alwayes protecting and defending whatſoever appertains to Our Right: Know ye therefore that ye are in great favour with Our <g ref="char:V">Ʋ</g>niverſality, whoſe travel and diligence we accept with many thanks, becauſe that infinit num<g ref="char:EOLhyphen"/>bers of ſouls by your example, ſervice and negligence in doing the Work of God among the People, are led away from the Truth and forſaken, brought day by day to <g ref="char:V">Ʋ</g>s, by means whereof the power of Our Kingdom is greatly encreaſed; Perſevere therefore in your Friendſhip, as faithful and aſſured to <g ref="char:V">Ʋ</g>s in the work you have begun: We are ready in all things to recompence you with a reward worthy of you, and agreeable to your ſervice, in the loweſt parts of Hell. Fare ye well. Our bleſſing be with you for evermore.</hi>
+               </p>
+               <p>Another ſort of this <hi>Myſtical Body</hi> are the Singing-men: One of them hearing the Bell toll, being drinking of Ale, <hi>ſwears he muſt be gone.</hi> Wife, you may remember what a Singing-man told a Gentle-woman, <hi>Yefaith, Miſtris, we are a company of wicked wretches of us, God help us! we drink Ale and Fuddle; I am perſwaded that our ſinging and praying does no good, for the Scripture ſayes, that the prayers of the wicked are an abomination to the Lord.</hi> But ſaid the Gentlewoman, I heard that Mr. <hi>Williams</hi> was ſo drunk when he was at his devotion, that he piſt in his Breeches as he read Prayer. <hi>Nay,</hi> quoth the Singing-man, <hi>I am an eye-witneſs of that.</hi> Another, who is both Reader and Chantor, being very buſie in an Alehouſe at a Game properly called <hi>Noddy,</hi> in which he is much an Artiſt; but hearing the Bell toll for Prayer, complains of the bondage, <hi>O</hi> ſaith he, <hi>what a ſlavery do we live in? if the Bell toll, away we muſt be gone what buſineſs ſoever we be about. But ſit ſtill</hi> (quoth he to his Gameſters) <hi>I will make haſte and be with you by and by.</hi>
+               </p>
+               <p>One comes and enquires of a Singing-mans wife, where is your huſ<g ref="char:EOLhyphen"/>band? She again enquires of the Boy, <hi>Sirra, where is your Maſter?</hi> the Boy anſwers, he went to drink his mornings-draught, from thence to the Colledge-Service, but ſince I never ſaw him; <hi>Yefaith,</hi> ſaid the good<g ref="char:EOLhyphen"/>woman, <hi>he is in for all this day; I would this Colledge-Service were far enough for me.</hi> I have heard ſome of the Fraternity ſpeak of the car<g ref="char:EOLhyphen"/>riages which have paſt among them; <hi>A Pax take ye for a Rouge, how do you ſing? Zeunds</hi>—<hi>and curſe one another.</hi> Prethee Wife what doſt think of ſuch Worſhip and Worſhippers?</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Truly Husband I muſt ſay as the Singing-man did, its abomination I think.</hi>
+               </p>
+               <pb n="23" facs="tcp:99201:16"/>
+               <p>
+                  <hi>Another ſort of the Myſtical Body.</hi>
+               </p>
+               <p>Now for a Dung-Cart, I'le not be long in filling it with the Mem<g ref="char:EOLhyphen"/>bers of this <hi>Myſtical Body.</hi>
+               </p>
+               <p>One Parſon which I know, and have for many years known him, challengeth to <hi>Fight, Threſh</hi> and <hi>Preach</hi> with any man. <hi>Swear</hi> he ſhall; I have heard him ſwear <hi>eight Oaths</hi> in half an hour; and <hi>eat Ale</hi> he ſhall as well as perform any of the former exerciſes, at which exerciſe having filled his belly, <hi>(And when the belly is full the bones would have rest)</hi> falls into a heavy ſleep: His loving Neighbours, to cover his in<g ref="char:EOLhyphen"/>firmity, laid him under a Board until he revived, but were going to carry him home in a Barrow. Another time, being at a Country Ale<g ref="char:EOLhyphen"/>houſe, met with a Farmer, where they fell at the exerciſe of drinking, until ſome difference aroſe in point of Judgement, and then to the ex<g ref="char:EOLhyphen"/>erciſe of Fiſticuffs. There ſtanding a Veſſel of ſcalding Wort, the Farmer ſtruck him down, like a Clown, backward, (not conſidering that he was a man in Holy Orders) where he ſcalded his Arſe and his Hand, and in that ſweet pickle went to a Gentlemans Houſe to have his Daughter dreſs his Hand: but ſhe bid him go home, and come again another day.</p>
+               <p>Another, I know not where his houſe is, but his dwelling is much at the Alehouſe, [where Country-men keep <hi>Conventicles</hi> many times, but ſuch are without the Verge of the <hi>Act;</hi> for they never go to Prayer there, nor ſpeak any thing of Expoſition of Scripture, Curſing, Swear<g ref="char:EOLhyphen"/>ing, Whoring, Drinking never ſo immoderately tends to any harm] where this Prieſt had gotten ſuch a burden of Ale, that he was not able to carry it home, but fell by the way with it, near unto a Brook-ſide, into which if he had fallen, farewel for ever: but falling aſleep in the place, a Gentlewoman dwelling near, tendring his Reputation, ſent two men with a Hand-Barrow to carry him home. But wee'l paſs from the Hand-Barrow to the Wheel-Barrow.</p>
+               <p>Another Prieſt was ſo drunk, that he was by ſome perſons in <hi>London</hi> carried towards a Juſtice of Peace in that condition; but coming near the place, he being awakened, parted with ſome money to be freed from that trouble. I have one Wheel barrow full more, but becauſe it is ſo eminently known, I'le be ſilent.</p>
+               <p>
+                  <hi>Gulielmus Mons</hi> (you do not know what that is in Engliſh) a <hi>Hereford ſhire</hi>-man, <hi>Trapanner-General</hi> he is, (a place of honour) but hath been ſo tranſpand with the <hi>POX</hi> to him, that his Neighbours excuſe their refu<g ref="char:EOLhyphen"/>ſing to hear him, by ſaying that they are afraid of receiving Infection from him. I know who had him in Cure, but could not do the work; neither could it be cured by the Biſhops breath when he was ordained, although it ſeems to have much vertue in it. A ſweet Member of the <hi>Myſtical Body.</hi>
+               </p>
+               <pb n="24" facs="tcp:99201:17"/>
+               <p>A Gentleman of very good Quality told a Knight and other Gentle<g ref="char:EOLhyphen"/>men at the Table, in my hearing, of a <hi>Devon ſhire</hi> Prieſt who had for<g ref="char:EOLhyphen"/>merly been ejected for Scandal; he was a <hi>Bachelor,</hi> but reſtored to both his Livings, to the value of 2. or 300 1. <hi>per annum,</hi> but had parted with one to another man as good as himſelf: They ſate <hi>Drinking</hi> ſo long, that one of them fell dead under the Table and never ſtirred more: The other having been drinking in a Country Ale-houſe, went home<g ref="char:EOLhyphen"/>ward very late, and was found dead in the morning upon a Green, <hi>Talis vita finis ita,</hi> lived drunk and dyed drunk: But if this may add any Comfort to their Friends, they lived and dyed Members of the <hi>Myſti<g ref="char:EOLhyphen"/>cal Body.</hi>
+               </p>
+               <p>Another Parſon, of whom it is publickly known in the place he lived in, was ſo <hi>Drunk</hi> in the <hi>Pulpit</hi> that he began the Lord's Prayer three times before he could end it; and at another time having a Paper put up to him, wherein was expreſt the deſire of a <hi>Sick</hi> Man and Woman to have the prayers of the Congregation, he was ſo <hi>Drunk</hi> that inſtead of praying he asked the <hi>Bands</hi> of <hi>Matrimony</hi> between them, ſaying, it was the firſt time of the publiſhing thereof.</p>
+               <p>Another, being led through <hi>Moor-fields</hi> between <hi>two Porters,</hi> an old woman followed him, ſaying, <hi>A Pillar of the Church, a Pillar of the Church.</hi>
+               </p>
+               <p>Three Prieſts of a company, being all <hi>Drunk</hi> in <hi>London,</hi> one of them ſtript himſelf unto his ſhirt, tumbles in the dirt, and cryed, <hi>Murder.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, I ſhould keep you waking too long, if we ſhould talk of all this Idle Drunken Tribe, and it is believed that the Scavinger might fill his Cart once a week in <hi>London,</hi> if he we were able to load them; but having other things to talk of, and the Cart prety well loaded, by that time it hath a Pillar of the Church on it will make the Axle-tree crack.</p>
+               <p>The cuſtome at Newgate is to carry but three in a Cart, and we ſhall have ſix (as honeſt men as they) in ours. But becauſe we have ten times ſix which we may carry at leaſure, we will drive away and let the reſt alone until another time.</p>
+               <p>On with the Pillar; A Reverend <hi>Dean,</hi> who in his Journey to, or from <hi>London,</hi> lay at <hi>Henly upon Thames,</hi> where having good company, he be<g ref="char:EOLhyphen"/>gan to ſolace and recreate himſelf with the Creature, and began to drink Healths, and good Healths too; to the King, Queen, and t' other Queen too; to the Duke of <hi>York,</hi> this Biſhop and t' other Biſhop too; it was not in Puddle Ale, 'twas in Sack, and good Sack too: They drank ſo long till it came to a Reckoning, and a good Reckoning too; but not without reſpect to a Member in Office of the <hi>Myſtical Body,</hi> who was
+<pb n="25" facs="tcp:99201:17"/> Reader, Chantor and Sermon-ſayer too; they let him ply but a noble, when it coſt every man elſe ten ſhillings. Alas, what was ten ſhillings a man in Sack, for ſix or ſeven men to pay? In this they ſhewed their affection to the King, not alone by drinking his Health, but wiſely con<g ref="char:EOLhyphen"/>ſidering that the more is ſpent in Sack, the more profit comes to the King by Cuſtom: If the Dean had drank his ſeven Pulpits ſon, he had been able to pay for it: The Emperour of <hi>Ruſſia</hi> hath all the profit of the houſes where ſuch liquor is ſold, and there they ſit and drink until they ſpend all for the honour of their <hi>Heffidas,</hi> as they call their Empe<g ref="char:EOLhyphen"/>rour: nay, until they ſell their Wives and Children— <hi>That's De<g ref="char:EOLhyphen"/>boiſtneſs.</hi> But theſe <hi>Pickadilly</hi> infirmities may be born withal in the Members of the <hi>Myſtical Body;</hi> ſo long as they conform to the Orders of the Church, that makes amends for all.</p>
+               <p>Some of theſe that drank Healths, joyned with <hi>L'Eſtrange</hi> to appre<g ref="char:EOLhyphen"/>hend me lately; who very uncharitably ſuſpects me for a Witeh, think<g ref="char:EOLhyphen"/>ing that. I can transform my ſelf into ſeveral Shapes, and therefore hunts me in the day with his <hi>Beagles</hi> for a <hi>Hero,</hi> and himſelf at night for a <hi>Badger,</hi> and inſtead of putting a Bag in the hole, ſet a man with a ligh<g ref="char:EOLhyphen"/>ted Porch in the mouth of the Berry.</p>
+               <p>And another thing, Wife, they can drink Healths, wherein they not only offend God, but tranſgreſs againſt the Kings Proclamation of the year 1660. and yet hunt and threaten to take away my life, although in what they hunt me for, I have broken neither Law of God, nor known Law of the Land; and the time may come I may tell them ſo.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Heuband I am weary of this diſtroineſs, talk of ſomething elſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife we will talk a little of another ſort of this Myſtical Body, who are like Aſſes which bear burdens beyond Imagination, and they are the <hi>Pluraliſts,</hi> who are of this Monſtrous Myſtical Body, and indeed are Monſter like men, and carry Monſtrous Burdens. I have ſeen a Calf with ſeveral heads, and yet but one body, I can remember the people ſaid it was a Monſter: So have theſe ſeveral heads and faces, and yet of that one Monſtrous Myſtical Body; and may fitly be com<g ref="char:EOLhyphen"/>pared to the Water bearess in <hi>London,</hi> who when they have a Tankard of Water on their ſhoulders haſten to be delivered; but put one of theſe fellows into the bottom of the <hi>Thames,</hi> and when they have the whole weight of the River upon their ſhoulders they feel nothing: So theſe, when they have two or three hundred pounds by the year, they do but carry the Water Tankard, but put them under a Biſhoptick of a thouſand or two thouſand pound by the year, they are inſenſible, feel nothing: They are like Arched-Bridges, the more weight you lay upon them, the more able to bear. Indeed great bodies cannot be ſupported with a little. <hi>Des Churtes</hi> the Philoſopher was of opinion, that how<g ref="char:EOLhyphen"/>ever
+<pb n="26" facs="tcp:99201:18"/> the ſoul was in every joynt of the body, yet the proper ſeat of it was in a kernal of fleſh which was in the brain: But theſe Learned<g ref="char:EOLhyphen"/>men are of another opinion, that the proper ſeat of it is in the Belly, that makes them provide ſo well for it.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, are not theſe pretty follows to preach Providence to ſuch poor folks as we are, and tell us what an excellent thing it is to live by Faith, <hi>qui ſaour eſt pleno laudat jejnnia ventre,</hi> as the Poet ſpeaks, com<g ref="char:EOLhyphen"/>mends taſting with a full belly: Faith will bring Bread into the Cup<g ref="char:EOLhyphen"/>board, they tell us, but it brings none into theirs: and how that <hi>Elijah</hi> was fed by <hi>Ravens, &amp;c.</hi> I remember a paſſage concerning a Comman<g ref="char:EOLhyphen"/>der who brought his Souldiers into the Field, and ſhewed them the face of the Enemy, encouraged them to go on and fight valiantly, and to fear nothing; although they might ſeem to have a ſharp Breakfaſt, he would promiſe them good chear for their Supper; but ſaid he, I have ſome other occaſion calls me away. I muſt be gone. <hi>Nay,</hi> ſaid one of his Souldiers (taking him by the ſhoulden) <hi>if nor Chear ſhall be ſo good, pray you ſtay and take part with us.</hi> So Wife, I wiſh it were theſe Prieſts lots to take part with us, if ſo excellent a thing to live by Faith; but if the Means were gone, which they have no Divine Right unto, O how pittifully would they look, as we ſay in a Counvey Proveth, <hi>As the Dogs were wont to look on the firſt Friday in clean <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                  </hi> will be long enough before they wil follow the example of <hi>Paul,</hi> who wrought with his hands; or of <hi>Muſculus</hi> the <hi>Italian,</hi> who, as <hi>Melchar addamus</hi> reporte, wrought in the Town-ditch of <hi>Florente</hi> for two pence no day, and preach'd twice every Lord's day. Theſe Pluraliſts drive a pretty Trade as Soul-ſwop<g ref="char:EOLhyphen"/>ing (ſome of them) and they <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> led to it <hi>Regis <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, &amp;c.</hi> by the example of their Spiritual dams Fathers and Top-gallant-Mem<g ref="char:EOLhyphen"/>bers of the <hi>Miſchief Body</hi> the <hi>Biſhop.</hi> The Souls of <hi>London</hi> for the Souls of <hi>Canterbury;</hi> the Souls of <hi>Salisbury</hi> for the Souls of <hi>Londons;</hi> the Souls of <hi>Worceſter</hi> for the Souls of <hi>London</hi> for the of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for the Souls of <hi>Worceſter:</hi> So do theſe <hi>Pluraliſts,</hi> juſt as <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (in effect;) Come, what ſwop between <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and your Parſonage, my Pa<g ref="char:EOLhyphen"/>riſh and yours, my Souls and thy Souls? The firſt queſtion is, What's your Parſonage worth? the second queſtion, What <hi>Fanaticks?</hi> if there be any ſtore of them, the Place, is much invalid, worſe by thirty pound by the year than a Pariſh which is olden Paper, which a man may write what he will upon: (I can prove the point) eſpecially if it hath the conveniency of another Living of the Parſons or Prebends place ſeitu<g ref="char:EOLhyphen"/>ate near it, that's a fair pretence. Doctor <hi>Hardy</hi> hath ſwopt the Souls of <hi>Henly upon Thames</hi> with Mr. <hi>Cawl</hi> for a parcel of Souls in <hi>Suſſex;</hi> poot <hi>Cawly.</hi> I doubt hath the worſt on; although <hi>Henly</hi> may be better, yet the <hi>Fanaticks</hi> ſpoil all; and if he can find any comfort in the place.
+<pb n="27" facs="tcp:99201:18"/> I dare Promiſe it's more than they ſhall find by his Miniſtry. Dr. <hi>Shir<g ref="char:EOLhyphen"/>borne</hi> hath ſwopt <hi>Lidney</hi> in Gouceſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhire for <hi>Fownhope</hi> in <hi>Herefordſhire (Lidney</hi> better by 40 <hi>l. per annum) Lidney</hi> hath ſome Fanaticks in it, <hi>Fownhope</hi> clean paper. Mr. <hi>Daſhfield</hi> hath ſwopt <hi>Berkley</hi> in <hi>Gloucofter<g ref="char:EOLhyphen"/>ſhire</hi> for <hi>Sutton-hadminton</hi> with Mr. <hi>Wood:</hi> I'le not ſtand to inſtance any more. And as Horſecourſers when they have parted with a Beaſt, ne<g ref="char:EOLhyphen"/>ver care what becomes of him; ſo theſe can ſlip whole Dioceſſes and Pariſhes through their affections with as much facility &amp; eaſe as boyl'd Peaſe-ſhels, or the ribs of a Tithe-Pig, well roaſted, through their teeth, without any reluctancy or remorſe at all.</p>
+               <p>Theſe men, in regard of their Sufferings, may be accounted the <hi>Pre<g ref="char:EOLhyphen"/>latical Martyrs</hi> of this age; and indeed it were to be deſired that ſome good pen would take the pains to do as Mr. <hi>Fox,</hi> who wrote the <hi>Acts and Monuments of the Church,</hi> to regiſter them for the benefit of future ages. Undoubtedly the Book would ſell well. And for that purpoſe Mr. <hi>L'Eſtrange</hi> is the moſt fit perſon, becauſe he may <hi>let fly</hi> to all per<g ref="char:EOLhyphen"/>ſone at the end of the <hi>News-Book,</hi> who ſuffer under theſe heavy Preſ<g ref="char:EOLhyphen"/>ſures, to ſend up their names, together with the heavy preſſures they lye under, if their modeſty will permit it, they do not know what ho<g ref="char:EOLhyphen"/>nour may come to their poſterity (or benefit) thereby: I could give ſome encouragement. Mr. <hi>Tindal, a Glouceſter-ſhire</hi>-man, whom Mr. <hi>Fox</hi> calls <hi>the Apoſtle of England,</hi> born twelve miles from <hi>Glouceſter,</hi> what with his Sufferings and what with his Prayers for them of the Fa<g ref="char:EOLhyphen"/>mily, I have not heard the like to hold out the profeſſion of Religion in ſincerity (as it's believed) to this day; and having much enquired, it hath been credibly reported, that ever ſince the Inheritance of the two Farms at <hi>Stinchcomb</hi> and <hi>Nibley,</hi> without addition or diminution, are ſtill remaining to the Family. The petty difference between Mr. <hi>Tin<g ref="char:EOLhyphen"/>dal</hi> and theſe <hi>Martyrs</hi> only thus; he maintained &amp; defended the Prieſtly Office of Chriſt, and ſealed it with his blood; theſe oppoſe his Kingly Office with their livings and their lives.</p>
+               <p>And foraſmuch as <hi>Ichabod</hi> hath made a falſe relation of theſe Martyrs in <hi>Glouceſterſhire,</hi> whereas he ſaith thus, that there are forty ſix (which is falſe) it will be hard for him to find twenty ſix. I can give an ac<g ref="char:EOLhyphen"/>count of them all, and ſhall be able to nominate them upon occaſion; and name but a few now; the manner and after what form, thus: In the Primitive Perſecutions under the <hi>Neroes,</hi> ſome had Horſes tied to their limbs, and hal'd to pieces with thoſe bruit Beaſts; ſome had their legs tyed unto two young Trees bended together, and ſo were ſtrided to death; the <hi>Perſecution</hi> now not ſo violent as the but born with as much patience as the former. A Preacher ſpeaking that good old <hi>Ja<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ob</hi> had one foot in the grave another in Heaven, a Scholar ſitting under the Pul<g ref="char:EOLhyphen"/>pit,
+<pb n="28" facs="tcp:99201:19"/> ſpake, ſaying, <hi>'Twas well ſtrided:</hi> ſo ſome of theſe are good Stri<g ref="char:EOLhyphen"/>ders, but never ſtride ſo wide. Dr. <hi>William Nicholſon</hi> Biſhop of <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi> ſtrides thence to <hi>Breknock</hi> where he is Archdeacon, from thence to <hi>Landelovour</hi> in <hi>Carmarthenſhire</hi> where he is Parſon, from thence to <hi>Lanſanfroid,</hi> otherwiſe St. <hi>Winifrieds</hi> in <hi>Montgomery-ſhire,</hi> where he hath a Preſentation <hi>ſine Cura,</hi> without <hi>Cure</hi> or <hi>Care,</hi> from thence to his Biſhoprick; he ſtrides two hundred miles in and out; the weight, as it is conceived, which lies upon him is <hi>800l. per annum,</hi> beſides thouſands for his Crop, and yet ſo patient in his ſuffering, that he could willingly have ſubmitted to have <hi>Cleeve.</hi> Steeple ſet on <hi>Glouceſter.</hi> Tower, ſeven hundred on the top of five: Endeavours were uſed by the aſſiſtance of the right Reverend Father the Biſhop of good <hi>Canterbury,</hi> but could not be effected: The ends aimed at were, What a hanſome convenient thing <hi>Glouceſter</hi> would be, and credict to the Church; and what Hoſpi<g ref="char:EOLhyphen"/>tality might then have been afforded. But let this Martyr paſs for an old man, and a good Strider.</p>
+               <p>Another of the ſame brood is Dr. <hi>William Warmſtrey,</hi> Dean of <hi>Wor<g ref="char:EOLhyphen"/>ceſter,</hi> hel'd about with four bruit Beaſts to <hi>Glouceſter</hi> 20. miles, where he is Prebond; his poor Innocent Childleſs Wife, alas what hurt hath ſhe done, that ſhe muſt be hal'd about with him, and that under the conduct of two men and a foot-boy. She uttered a ſpeech lately which pleaſed me well, <hi>That now they were as ſafe in their condition as the Hea<g ref="char:EOLhyphen"/>vens could make them;</hi> from <hi>Glouceſter</hi> to <hi>Hampton</hi> and <hi>Radborrough</hi> ten miles, where he hath 200 <hi>l. per annum,</hi> beſides his full Crop at <hi>Glou<g ref="char:EOLhyphen"/>ceſter,</hi> and part of the Crop at <hi>Worceſter:</hi> From <hi>Hampton</hi> halled back again fourty miles to <hi>Bromſgrove, Kings-norton</hi> and <hi>Moſely</hi> (as his man ſaith,) the burdon he lies under is 1400 <hi>l. per annum:</hi> But I think he over-burdens him; yet willing to undergo more, endeavoured for <hi>Up<g ref="char:EOLhyphen"/>ton</hi> upon <hi>Stavern, 200 l. per annum,</hi> but went to the wrong Patron; likewiſe for the Biſhop<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Worceſter,</hi> but went without it; what ſnop he hath made with <hi>White-Church</hi> in <hi>Warwick-ſhire</hi> I know not, but gone it is. An eminent Member of the <hi>Myſtical Body.</hi>
+               </p>
+               <p>Dr. <hi>Brough</hi> Parſon of <hi>Michaels Cornhil</hi> in <hi>London,</hi> Dean of <hi>Glou<g ref="char:EOLhyphen"/>ceſter,</hi> Prebend of <hi>Windſor,</hi> having thouſands of pounds for his Crops, and more money he might have had, had it not been for his charitable diſpoſition; but on a time enquiring what poor Widows there might be in <hi>Glouceſter</hi> which wanted relief, he had a Liſt (as I heard) given him, which when he had obtained, ſaid, <hi>That he had ſet ſome money apart for that uſe,</hi> and when they came to him, he gave each poor widdow a new ſingle Pe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y I ſuppoſe they may be twenty or thirty. Let him paſs for a Martyr, and a good Stider, for he ſtrides in and out 200. miles. The <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to <hi>L'Eſirange,</hi> he ſhall be ſure of my aſſiſtance. I could
+<pb n="29" facs="tcp:99201:19"/> willingly add one more Singular-Martyr; Mr. <hi>Tomkins,</hi> a knocking Martyr, that <hi>Antropophagiſt</hi> man-eater, whoſe diſpoſition is like the <hi>Devil</hi>'s name, <hi>Diabolus,</hi> for he makes but <hi>Dia-bolus,</hi> two bits of two brothers; for he eats up that Godly Eminent Preacher, Mr. <hi>Benjamin Baxter</hi> at <hi>Upton upon Seavern,</hi> and his brother <hi>Stephen</hi>'s Living at <hi>Har<g ref="char:EOLhyphen"/>vington,</hi> an honeſt man and a good Preacher; beſides he eats up ſeven or eight hundred pounds by the year in other places, a greater Glutton than ever Mr. <hi>Marriot</hi> was; let him paſs for a Belly-Martyr. As for Dr. <hi>Poury, Reeve, Bredioch, &amp;c.</hi> you may expect in the next Edition by <hi>D'Eſtrange. Phaſſen Gherechiet undt GOTTOS Barmhertſechceit weret von nua his en evechiet. [Prieſts Coveteouſneſs, and GOD's Goodneſs en<g ref="char:EOLhyphen"/>dure for ever]</hi> as the word in the Original hath it.</p>
+               <p>The <hi>Papiſts</hi> call Mr <hi>Foxe's</hi> Book of Martyrs, <hi>A dunghil of Martyrs:</hi> But if all the Martyrs of this kind, were brought and laid together, they would make a dunghil as big as that which is made of the rotten Egs ex<g ref="char:EOLhyphen"/>hauſted by the Gold-finders out of the Citizens Neſts, and laid between <hi>Iſlington</hi> and <hi>London,</hi> and in time will ſmell as Odoriferouſly.</p>
+               <p>Another ſort of the <hi>Myſtical Body</hi> are ſuch as once had cut them<g ref="char:EOLhyphen"/>ſelves off from this Body, and now have cunningly inoculated them<g ref="char:EOLhyphen"/>ſelves again; who called the Biſhops firſt <hi>Reverend Fathers,</hi> afterwards accounted them <hi>Rebel Fathers</hi> and <hi>Antichriſtian,</hi> and now <hi>Reverend Fathers</hi> again.</p>
+               <p>The winter before the Act of <hi>
+                     <g ref="char:V">Ʋ</g>niformity</hi> came forth there was a great wind which blew down tops of Steeples and Weather-Cocks, yet before the year came about there were more Weather-cocks than Steeples. And what a ſad Perſecution was like to come, I heard diverſe of the Par<g ref="char:EOLhyphen"/>ſons ſay, <hi>Bartholmew day</hi> being the 24th of <hi>Auguſt,</hi> compleated fourſcore years from the day which the great Maſſacre began on in <hi>France,</hi> and di<g ref="char:EOLhyphen"/>verſe of them ſeemed to be poſſeſſed with fear, but the Perſecution here fell out thus, many men ſtab'd their own Conſciences and there's an end of the Perſecution with them. Some that marched with Sword and caſe of innocent Piſtols, exhorting to be couragious, and upon deliverance by ſmall means have clartered <hi>Gideon</hi>'s Rams-horns and broken Pitchers together, and preſt the Covenant very hard, and now <hi>qui color albus erat. &amp;c.</hi> white then, is black now: Some that ſaid they would live on <hi>brown bread,</hi> yea ſome that ſaid, <hi>they would live upon ſtones rather than con<g ref="char:EOLhyphen"/>form;</hi> yet now can preach that ſome things may be diſpenſed withal, and that <hi>ſome brown bread is better than no white.</hi>
+               </p>
+               <p>I ſhall not yet ſpeak of ſuch, but of One whoſe judgment was thought to differ from his preſent undertakings, who <hi>hector'd</hi> his Conſcience, as he was told by one, and baſted it for being a little skittiſh and kickiſh, that he made an Aſs on't, and made the poor Jude carry a Biſhoptick
+<pb n="30" facs="tcp:99201:20"/> upon its back; <hi>Raynolds</hi> you call him, but <hi>Reynard the Fox of Norwich</hi> you may call him.</p>
+               <p>One who had been a great <hi>Synodian</hi> in the time of the <hi>Long-Parlia<g ref="char:EOLhyphen"/>ment,</hi> told me, he went to ſeek God to know whether he ſhould con<g ref="char:EOLhyphen"/>form, or turn out. The Lord (as he ſaid) anſwered him by his own Reaſon, <hi>that it was better to conform, and keep his living; thou to be a Fool, and leave it to a Knave.</hi> This makes the country-man ſay, that there is but the breadth of the ſhears between the <hi>Prieſt</hi> and the <hi>Taylour,</hi> the one turns a Coat <hi>to get a Living,</hi> the other turns a Coat <hi>to ſave a Living.</hi>
+               </p>
+               <p>A Falconer told a tale, I took it for no leſs than a lye; That he kept his <hi>Hawk</hi> ſo long in the Mew, and fed him with Mice, that he was turned to be a perfect <hi>Owl,</hi> but the enſuing paſſage makes me credit it the more. One Mr. <hi>Dolphin,</hi> a man who would not conform by any means, having formerly removed from <hi>Broadway</hi> in <hi>Worceſterſhire,</hi> where there was a ſtream of water running by his door (being the Element that ſuits beſt with the nature of a Fiſh) but removed to a place three miles further, called <hi>Hunnibourn,</hi> where there were great ſtore of Geeſe, and leſs water, being famous for Geeſe, <hi>(No Gooſe to the Hunnibourn Gooſe)</hi> where this <hi>Dolphin</hi> dwelling among them was turned <hi>Gooſe,</hi> and in his white Feathers, I mean with his Surplice on his back, goes to Biſhop <hi>Morly,</hi> then of <hi>Worceſter,</hi> and kneels down before him with ſubmiſſion for his paſt carriage, is pardoned, received as a dutiful <hi>Son of the Church,</hi> and a <hi>Member of the Myſtical Body.</hi>
+               </p>
+               <p>Mr. <hi>Collier</hi> of <hi>Blockley,</hi> a great <hi>Presbyterian,</hi> very forward to promote the Covenant, having a Conſcience of <hi>ſtretching Leather,</hi> put it between his teeth, and with the help of his Wife, tug'd it ſo hard and ſtrain'd it, that he made it wide enough to protect and ſave three hundred pounds by the year.</p>
+               <p>The Biſhop of <hi>Worceſter,</hi> a new Dr. Swop-ſoul ſince <hi>Morley,</hi> coming to <hi>Eveſham</hi> a Market-Town in <hi>Worceſterſhire,</hi> ſaw a <hi>Blackmoor</hi> about ſix<g ref="char:EOLhyphen"/>teen or eighteen years of age, and out of his good nature, rather than from any deſire or deſert of the <hi>Blackmoor,</hi> would needs make a Kirſen<g ref="char:EOLhyphen"/>ſoul of him; a day is appointed for the purpoſe, Mr. <hi>Collier</hi> muſt preach the Sermon upon the occaſion, and did, ſhewing the lawfulneſs of <hi>In<g ref="char:EOLhyphen"/>fant Baptiſm;</hi> if he had preached the lawfulneſs of <hi>Infidel Baptiſm,</hi> he had hit the Nail on the head.</p>
+               <p>One Mr. <hi>Brit</hi>—who in the dayes of the Covenant called his Pariſh together on a day ſolemnly to take the ſame, which was accordingly performed: but now the ſtream turning, he will prove conſtant; brown bread and ſmall drink muſt be his diet, if not live upon ſtones, rather than conform: But now the time is come he muſt appear before the Biſhop, or turn out: To the Reverend Father he goes (and as he ſaid)
+<pb n="31" facs="tcp:99201:20"/> with great terror upon his ſpirit; but when he came to the Biſhop, the Biſhop kindly ſalutes him, with a <hi>What brother Brit! Come, come, put to your hand, and take it in your own ſenſe;</hi> which he did chearfully, and home he comes, and then preacheth that <hi>ſome brown bread is better than no white,</hi> and then to the <hi>Common-Prayer</hi> again.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, what would you have the man to do? he did it out of Love and Pitty to his Pariſh, not knowing under what Miniſtry they may be lefe unto; and he is glad and rejoyceth that he did conform, becauſe (as he ſaith) he hath ſince he was with the Biſhop converted eight ſouls, which he takes as a ſeal of his Miniſtry, which is more than he had converted in many years before: and he ſeeing the Puriſh was willing, the Biſhop willing, and his Wife willing, made him willing alſo, and then what hurt can be in it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, 'tis <hi>Cato's</hi> caſe and <hi>Ortetius; Cato</hi> hath a mighty mind to <hi>Ortetius.</hi> Wife, he makes it known firſt to <hi>Ortetius,</hi> and goeth honeſtly to work and then to his Wife expreſſeth his affection, telling both, that upon condition he may have her home to his houſe for his uſe for ſuch a time, he will give them ſo much money, and juſtly and truly it ſhall be paid. <hi>Ortetius</hi> is willing, his Wife willing, and home he hath hee, uſeth her kindly when the time is expired, he proves honeſt ac<g ref="char:EOLhyphen"/>cording to his word, and ſends her home with ſo much money. <hi>Cato</hi> is pleaſed, <hi>Ortetius</hi> Wife pleaſed, and <hi>Ortetius</hi> a well contented-Cuc<g ref="char:EOLhyphen"/>kold; and what hurt is in all this, Wife? here is a Commandment broken in this, and a Covenant in the other.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, <hi>Euſebius</hi> reports of <hi>Origen,</hi> that living among the <hi>Heathen,</hi> they perſwaded him to ſacrifice with them, but he refuſed; they told him that if he would but hold up his hand, and do no more, that ſhould be all they would deſire, and then he ſhould preach: he hoping to preach, held up his hand; they clapt a Cenſor into his hand, and cryed out, <hi>Origen hath ſacrificed, Origen hath ſacrificed!</hi> This ſtruck a terror to <hi>Origen,</hi> and it may to Mr. <hi>Brit.</hi> and take away his boaſting, if he conſider from whom now he hath received his Miniſtry: His Converts were Members of his Church before, but it ſeems Infidels, which is ſome<g ref="char:EOLhyphen"/>thing a prepoſtrous courſe, to make them members firſt, and then con<g ref="char:EOLhyphen"/>vert them afterwards; ſomething like the the Biſhop of <hi>Newgate</hi> and <hi>Tyburu,</hi> who receives men into his fellowſhip, adminiſters the Sacrament unto them, makes them Members of the Church of <hi>England,</hi> and then brings them to the Gallows and bids them <hi>Confeſs.</hi>
+               </p>
+               <p>A contrary effect of Conformity hath been found near unto us, in ſome men who made profeſſion contrary to what their practice hath fal<g ref="char:EOLhyphen"/>len out to be; as firſt, in one whoſe name is <hi>Hall,</hi> who not long ſince, being left unto himſelf, got a Wench with Child; the Child murdered by the Wench, he ran away.</p>
+               <pb n="32" facs="tcp:99201:21"/>
+               <p>A ſecond, whoſe mother (whom you know) told me that ſince her Son had been with the Biſhop, the Devil was got into him, he was tur<g ref="char:EOLhyphen"/>ned common Drunkard and Swearer, and would beat his wife <hi>(R. B<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.)</hi> A third is, Mr. <hi>Page</hi> of <hi>Ledbury,</hi> who the firſt day he went to tende <hi>Common-Prayer</hi> was imitten dumb and never ſpake ſince. If Mr. <hi>Brit.</hi> hath found ſuch a ſeal as he ſpeaks of, put that in <hi>Annus Mirabilis.</hi> Theſe are Membes of the <hi>Myſtical Body.</hi>
+               </p>
+               <p>Another ſort of this <hi>Myſtical Body,</hi> are the <hi>Rats</hi> or <hi>Cu-Rats,</hi> who are ſet over the Flocks, who receive orders from their Maſters to Pot<g ref="char:EOLhyphen"/>tage them well over whatever they do, in which they are not ſo diligent as in the Cathedrals, where they heat the Pottage three times in a day, to keep it from ſowring, and yet can hardly keep it from ſtinking in the noſtrils of many: And theſe will be Preachers too. And they are ſo peſtered in ſome places with <hi>Phanaticks,</hi> that they cannot filch a Sermon, as their Maſters do, but they are found out. Some of them who are pri<g ref="char:EOLhyphen"/>vy to my infitmities, knowing that I am many times troubled with a pain in my right arm that I cannot heave a groat to my head, have come to me for ſome one, who had plaid the Truant at a Free-School, and loytring about, his father diſpleaſed with it, he be thinks himſelf what courſe to take; and finding himſelf more fit to teach than to be taught, mounts the Pulpit in a Reprobate Pariſh, where none had any Call to ſpeak, the means being ſo ſmall, and with a few ragged Notes which he patch'd together, puts off the ware: The Pariſh accepts on't, and takes him for their Cu-Rat. Then to trading he and I fell, and in a caſe of extremity, being ſo lame, not able to ſtir but with crutches, and trou<g ref="char:EOLhyphen"/>bled with the pain in my arm, I ſhewed him a parcel of Notes, nine in number; he put his hand in his pocket, took me money without asking price; we are now both in ſtock, he for Sermons, I for money: Not above groats apiece I had of him; if he gave threepence a peice more than they were worth, he had quick return, that's ſomething worth. Then to work agen, and falls to drinking Ale very ſtifly with them; pleaſed the Pariſh well, but ſhortly packs up, and to another, and ano<g ref="char:EOLhyphen"/>ther, and another place, until he got to <hi>Worceſter,</hi> where he got Ordi<g ref="char:EOLhyphen"/>nation, and a Living of threeſcore pounds a year in that Dioceſs.</p>
+               <p>Another poor Rat came to me, being my ſelf in a Trap, I mean a Priſon, begging ſome of me, which I wrote there, I gave them fre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly; it could be but poor matter, from a beggar to a beggar; but he got mo<g ref="char:EOLhyphen"/>ny by them.</p>
+               <p>One young Rat lately being in diſcourſe with one, who told him that a man unregenerate, his prayers were not acceptable but abominable: he anſwered, <hi>That if they were not available for himſelf, yet they might by available to do others good, if he prayed heartily.</hi>
+               </p>
+               <pb n="33" facs="tcp:99201:21"/>
+               <p>Another in Holy-Orders asked one what a <hi>Presbyterian</hi> was, and what an <hi>Independant,</hi> was? where the difference was between them? and thirdly, what <hi>Free Grace</hi> was? which when he was told, replied, <hi>that it was more than ever he heard before.</hi>
+               </p>
+               <p>One Rat-maſter, having a Living of 150 <hi>l. per annum,</hi> ſaith, <hi>that he can go to London, and buy Sermons to ſerve him all the year about for five pound and hear his charges into the bargain;</hi> which hath been his courſe.</p>
+               <p>Another old Rat, who hath lived upon other mens Bacon for many years, being Schoolmaſter in a Market-Town where good Preachers have been, he ſerving a Curacy now, and hath ſet his Son up at the Trade, who began ſince the King came in, and is like to do well; for he ſaith, <hi>His Father will help him to Sermons to ſerve him ſeven years.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, I pray you give over this Rat-catching, I am almoſt wea<g ref="char:EOLhyphen"/>ry of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, Ile tell you but of two more; one who ſerved under an Impropriator for eight pounds <hi>per annum,</hi> removes thence to a place of ten pounds yearly, and out of a deſire to do more good by his Miniſtry, as others do when they remove from a leſſer to a greater I but ſeeing Preaching was the better trade to get money, gets ſome Sermons, and to't he goes; but hearing where a vacincy in a Pariſh was, thither he repairs with ſome of the beſt were he had, and up into the little ſhop he clambers with it, twice in one day. The Pariſh accepts of him, and in a ſhort time the pretty knave thrive ſo faſt, that he was able to hang his Bed about with ſlitches of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cor inſtead of Curtains. If I ſhould ſay any more of him I ſhould not know how to end; take t'other Rat, and I'le trouble you with no more.</p>
+               <p>A young man, a ſervant to a Merchant, went away with an hundred pounds of his Maſter's money; but the buſineſs being taken up, and the young man without imployment, reſolves to take up that which will help when all f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ils: A Preacher he will be. I met with him at a Cooks ſhop in 63, he gets him ſome Canonical habit, <hi>Circingle</hi> and all; up he gets into a Pulpit in <hi>London,</hi> with as good a portion of Impudence as of Ignorance: ſome Youths of his former acquaintance put a Bill up to him, <hi>Deſiring him to remember one in his prayer who had run away with an hundred pound of his Maſters money.</hi> But Ordination is wanting, and he by ſome means men with one Dr. <hi>Gatr,</hi> as they called him (but I think no Doctor) who wanted a Rat; to trading they fall. <hi>Cauſt preach,</hi> ſaid the Doctor, twice in a day? Yeaquoth the Rat. <hi>Canſt preach once a day? Canſt preach half an hour in a day?</hi> Yes Sir. <hi>Come along with me to the Biſhop of Chi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heſter.</hi> Away they go. The Biſhop refers the examination of him to the Archdeacon. Away goes <hi>Cars</hi> to the Archdeacon, lea<g ref="char:EOLhyphen"/>ving the Rat in the room where I was, but return with this anſwer,
+<pb n="34" facs="tcp:99201:22"/> 
+                  <hi>That the Archdeacon had been drinking ſo hard, he was unfit for the work for this day; beſides, that the Canonical hour will be paſt: Meet me at the Spur in</hi> Southwark <hi>on Friday, there thou ſhalt have an Horſe, and into</hi> Suſſex, <hi>twelve miles from</hi> Chicheſter, <hi>we will go thither to the Biſhop, there thou ſhalt have Ordination.</hi>
+               </p>
+               <p>Others came to me for Sermons lately by their Advocates: But I re<g ref="char:EOLhyphen"/>fuſed to let them have any, ſending them to <hi>Ducklane,</hi> whereas I then underſtood the Parſons Wives ſold the remainder of their Husbands Studies and Sermon-Notes: I think ſome of them have took my counſel, for I went to enquire lately for ſome, but could not meet with any. I asked them, if they did not uſe to ſell ſuch ſometimes? they anſwered me, Yea ſometimes, but now they were without: At laſt I met with a parcel of very honeſt Sermons, but not fit for the times. A man that drives a Trade, muſt provide VVare according to the Market: he that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rucks for Sermons, muſt be ſure to deal for ſuch as the times will take off, elſe they may ſtand upon his hand, good judgment is required in it. Sermons whoſe Texts are taken out of the <hi>Revelation</hi> are quite out of faſhion; for you know that the Biſhop hearing that Mr. <hi>Hall</hi> preached a Sermon out of the <hi>Revelations,</hi> forbid him to ſpeak any more thence: For indeed, if a man had free liberty to ſpeak thence, he might quickly endanger the tumbling down of their Kingdom. A man may with ſafety take a Text out of <hi>Tobit and his Dogg,</hi> or where the ſmell of a <hi>Fiſh</hi> af<g ref="char:EOLhyphen"/>frighted the Devil into <hi>Egypt,</hi> and raiſe Orthodox matter thence to pleaſe the times: Of if a man take a Text that may touch Prelacy, let him he ſure to play his Uſes far enough off the point; or as old <hi>Buſted</hi> of <hi>Stow</hi> would play his Uſes (in ſuch a caſe) beyond Sea, and ſpeaking as loud as he could, <hi>O that I had the Pope here!</hi> and this makes the Popes Kitchin SMOKE; And the uſe of this point ſerves to reprove the <hi>Pope,</hi> and the <hi>Turk,</hi> and the great <hi>Cham</hi> of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then there is no dan<g ref="char:EOLhyphen"/>ger in it. But if he be wiſe, let him be ſure to bang the <hi>Fannaticks</hi> ſoundly, as the Biſhop of <hi>Wineheſier</hi> did at a Viſitation, and tell them, that the Church of <hi>England</hi> had brought forth four Baſtards, <hi>viz.</hi> the <hi>Presbyterian, Independant, Anabaptiſt,</hi> and the <hi>Quaker;</hi> and although a Gentleman ſpake ſaweily, and ſaid, <hi>That if ſhe had brought forth four Baſtards, ſhe must needs be a Where, he would never come at her again;</hi> yet who dare ſay any thing to him ſo long as he is in the Pulpit, and hath Authority on his ſide? I hope he it as good a man as a Stage-player, they can ſpeak freely without controul, and why may not he upon his Stage?</p>
+               <p>Or if he preach, as ſometime Dr. <hi>Lewis</hi> did at <hi>Tewkſbury,</hi> and ſhew the reaſon why <hi>Metchiz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dech</hi> was Prieſt and King; becauſe the Prieſts place was a beggarly place, like <hi>Teniksbury,</hi> It would not maintain a
+<pb n="35" facs="tcp:99201:22"/> man, therefore he was King of <hi>Salem.</hi> Or if he preach, as he that preached at <hi>Bartholomews Exchange,</hi> out of the <hi>Acts,</hi> the words of the evil Spirit in the <hi>Exorciſt, Jeſus I know, and Paul I know, But who are ye?</hi> and thence infer, (ſpeaking of the <hi>Presbyterians) That there were a generation of men in this age, that the Devil himſelf did not know.</hi> Or as he that would maintain the lawfulneſs of Ceremonies from <hi>Pauls</hi> ſaying, <hi>Greet ye one another with an holy Kiſs.</hi>
+               </p>
+               <p>Or as Mr. <hi>Fox,</hi> who prefer'd the Church-Catechiſm before the Gar<g ref="char:EOLhyphen"/>den of <hi>Eden:</hi> In the Garden of <hi>Eden</hi> were Trees <hi>good</hi> and <hi>evil,</hi> in the Church-Catechiſm <hi>all good:</hi> In the Garden of <hi>Eden</hi> there were <hi>Ser<g ref="char:EOLhyphen"/>pents</hi> and <hi>Scorpions,</hi> in the Church-Catechiſm <hi>no hurtful thing.</hi> Such as theſe will paſs. A man almoſt may ſay any thing, provided al<g ref="char:EOLhyphen"/>wayes he pray for the <hi>Right Reverend,</hi> and obſerve the Orders of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>
+                  <hi>Husband, you will hardly afford me time to ſpeak. What, preach out of</hi> Tobit and his Dog! <hi>Fie, fie! or where the ſmell of a Fiſh frighted the Devil into</hi> Egypt; <hi>what out of the</hi> Apocrypha! <hi>I am ſorry to hear you ſay ſo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife, why may not a man preach out of the <hi>Apocrypha</hi> as well as the <hi>wiſe Convocation</hi> by order of the <hi>Common-prayer-book</hi> (as it is to be ſeen in the Calender) approve of fourty Chapters, or near ſo many, to be read for Leſſons out of <hi>Tobit, Eſdras, &amp;c.</hi> diſinheriting the Sacred Scriptures, baſtardizing them: neither do I think they would take in their places ſo many out of <hi>Daniel</hi> or the <hi>Revelation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>
+                  <hi>Husband, they are wiſe, they know what they have to do.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>VVife, no doubt but they are as wiſe in this and other things, as that Synod which was called about the Mouſe's eating of the Conſe<g ref="char:EOLhyphen"/>crated Bread, that <hi>Fanatick</hi> Creature diſturbed the peace of the Church: what puniſhment might be <note place="margin">
+                     <hi>This was diſcourſed on between two Do<g ref="char:EOLhyphen"/>ctors, the one a Do<g ref="char:EOLhyphen"/>ctor of Dulvinity, the other a Doctor of the Civil Law, lately at a Sack-ſhop</hi>
+                  </note> fit for the Crime could not eaſily be determined; Excommunication could not, he was no Member of the Church; if a Member, little would it advan<g ref="char:EOLhyphen"/>tage the Biſhops Court, wanting money to pay for his Abſolution. If the Cat ſhould eat him, then the Bread had been twice prophaned: kill him they could not before they caught him, and it's queſti<g ref="char:EOLhyphen"/>onable whether it were not before the invention of Mouſe-traps; no doubt but it put the Synod to a great deal of trouble. In things of like imoortance our Convocation is as able to manage as that Synod, and that Synod able to do as much good as ours have done, or would do, were they to ſit ſeven years longer.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>
+                  <hi>Husband, what is this</hi> Convocation? <hi>is it conſtituted according to</hi> Magna Charta, <hi>the Rule of the Gospel?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <pb n="36" facs="tcp:99201:23"/>
+               <p>Wife, for your ſatisfaction I'le tell you; it is not according to the Rule of Goſpel for the conſtitution of it, for in the Churches of Chriſt in the primitive times the Power lay not in any ſingle perſon, but in the Members of the Churches aſwel as in the principal Officers. This Convocation is of <hi>Romes</hi> Conſtitution, and left unto us by ſucceſ<g ref="char:EOLhyphen"/>ſion, as it was in the darkeſt times of Popery, and as it is at this day under the <hi>Romane</hi> Empire, in which the <hi>Laity</hi> (as they call the com<g ref="char:EOLhyphen"/>mon People) have no voice in the election of the Clerks, according to the Government of the <hi>Myſtical Body</hi> (as the Doctor calls it) the Church of <hi>England,</hi> the People being denied that priviledge for their precious. Souls, which they have in ſome caſes in temporal things for their periſhing bodies. Bear with me for ſome homely compariſons, and ſome circumſtances, and I will tell you the manner of this Convo<g ref="char:EOLhyphen"/>cation and conſtitution of it by and by.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, I hope there is no need of ſuch Complements between you and me, Pray tell me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, not long ſince I was ſtanding in <hi>Newgate-Market</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> where I ſaw at a diſtance a ſtrange Creature mounted on the back of a beaſt, but approaching near me, I perceived it to be a <hi>Gentleman-Fackanapes</hi> on Horſe-back, and the Bears led by the noſe, following him to the miſery of the ſtake, there to baited with Dogs. This Gentle<g ref="char:EOLhyphen"/>man is no <hi>Engliſh</hi> Native, but a Foreigner, whether of ſome parts of <hi>Italy</hi> or <hi>America,</hi> I know not; his habit is an hairy rough garment, yet nothing but what Nature did afford him, and with the bridle on his arm (for ſo I'le call it) for imitation like himſelf <hi>(very Ape</hi> as we ſay) There is a Gentleman <hi>John Prieſt,</hi> with whom you may parallel this Gentleman <hi>Jackanape's</hi> in ſome paſſages, who is mounted upon the Ma<g ref="char:EOLhyphen"/>giſterial power of the Beaſt, and with <hi>Inſtitution</hi> and <hi>Induction,</hi> which is as pretty a Popiſh knack as any is in all the Pack, comes to the Pariſh, and they muſt take him, <hi>for better or worſe,</hi> for their Paſtor, although he never taſted of one bit of Bread which came down from Heaven, nor drop of living Water, to which he is a ſtranger; <hi>Watchman</hi> or <hi>Overſeer,</hi> although the Scales never fell from his eyes, nor ever opened by that great Occuliſt who only is in Commiſſion for that purpoſe; and follow him they muſt, although quite blind; they muſt ſee with his eyes, and be led by him into the miſery of the Ditch.</p>
+               <p>This Gentleman <hi>John Prieſt</hi> is no true Native, <hi>qua Saeerdos,</hi> as a Prieſt, but as a <hi>Romane,</hi> and his habit a <hi>Rough Garment</hi> to deceive the People, according to the nature of the Beaſt; but not any garment, no nor a rag of any thing but what Nature doth afford him; For imitation apiſh and wanton with a <hi>ſtrange woman,</hi> and nothing fits his fancy better than the Faſhions of the <hi>old Whore.</hi>
+               </p>
+               <pb n="37" facs="tcp:99201:23"/>
+               <p>Well, a Convocation muſt be called, by whom? this Gentleman <hi>John Prieſt,</hi> with the reſt of the Gentlemen <hi>John Prieſts</hi> of the ſeveral Dioceſ<g ref="char:EOLhyphen"/>ſes and Pariſhes muſt make choice of the Clerks, who are men called to the work of Prieſthood as himſelf; and although the Biſhops ſit in Parliament by vertue of the King's Writ, yet they are of the Corpo<g ref="char:EOLhyphen"/>ration, and muſt have, not a finger only, but a foot in it, and then as we ſay in a Country Proverb, <hi>The Pottage is never the better</hi> (what they are, we talked on before) And whatſoever is brewed in the Convocation (I may not ſay who grinds the Malt) being tund up into the Houſe, and there a cork put in the Bunn-hole, I mean confirmed by <hi>Act,</hi> is <hi>Jus Divinum:</hi> And the People muſt be led by the noſe of an Implicit Faith, to believe that it is their duty to obſerve and practiſe; which Implicit Faith brings more miſery than the Bears are brought unto at the Stake, the miſery of the one is <hi>Finite,</hi> the other <hi>Infinite.</hi> If they obſerve not the Dictates and Commands of the ſame, they are Fin'd, Impriſon'd, Tranſportation threatned, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, what's become of Sions King all this while, one JESUS?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, well remembred, ſhall I tell you? they have ſerved him as <hi>Herod, Pontius Pilate</hi> and the <hi>High Prieſts,</hi> ſent him into another world, or elſe tranſported him to <hi>Tangier</hi> or elſe where; for <hi>(Deus hic nihil fe<g ref="char:EOLhyphen"/>cet)</hi> he hath not been ſeen or heard of here.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, that is ſome comfort to them that ſhall follow after, if their Captain and Head be gone before; but what is to be done in this caſe. for re<g ref="char:EOLhyphen"/>medy?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, nothing as I know of, but the old Weapons, <hi>Preces et Lachrime,</hi> Prayers and Tears; wait upon God, and then you ſhall ſee, as <hi>Athanaſius</hi> ſaid in the like caſe, but (Nubeculo cito tranſitura) a little Cloud quickly paſt over.</p>
+               <p>But Wife, you put me out with your talking, what I was going to ſay concerning <hi>John Prieſt,</hi> a little more; when the Houſe is adjourn'd, Acts extant, and the Biſhop come home, Country <hi>John Prieſt</hi> in duty gives his Lordſhip a viſit, and bids him welcome home, thanking him for his pains, &amp;c. The Biſhop gives <hi>John</hi> ſome account of their work (good thinks <hi>John)</hi> this will help of ſpin out a little time next Sunday in the Pulpit or Pue, and then <hi>John</hi> addreſſes his ſpeech unto his Neigh<g ref="char:EOLhyphen"/>bours.</p>
+               <p>
+                  <hi>Neighbours, I have been with my Lord Biſhop, who hath given me a Nar<g ref="char:EOLhyphen"/>rative of the Proceedings of the Houſe for the ſetling and right regulating thereof. The Church of</hi> England <hi>it's well known hath been accounted the moſt Glorious Church, and hath had the preheminence of all the Churches in the Chriſtian world, however it hath been clouded and eclipſed by ſome</hi> Schiſ<g ref="char:EOLhyphen"/>matical <hi>and</hi> Seditious <hi>Spirits in the late unhappy times of Libertiniſm;</hi>
+                  <pb n="38" facs="tcp:99201:24"/> 
+                  <hi>and ſtill</hi> Fanatick Spirits <hi>do abound; yet ſuch good and wholſome Laws are enacted and made for the ſuppreſſing of the ſame, that the Church of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>may be reſtored to its former Beauty and Primitive Purity: For never was there a more Learned, Pious, Wiſe, Grave, Juditious Aſſembly of Di<g ref="char:EOLhyphen"/>vines, of Biſhops, Doctors and Clerks, who are the Pillars of the Church, then</hi> England <hi>hath at this day, and who have laid out themſelves aſwel in Purſe as Perſon for the reformation of thoſe evils which are crept in among us. If after all this we ſhall remain obſtinate, diſregarding and underva<g ref="char:EOLhyphen"/>luing their indefatigable pains, ſtudies and diligence uſed, and out of our Peeviſh Self-Conceitedneſs of our own abilities,</hi> New-Light forſooth, and Light within, <hi>and ſuch like fooleries; whereas it is impoſſible that thoſe who are but</hi> Layicks, Mechanicks <hi>and other T'radſmen and Country men, who follow the Plow tayl, to have that Wiſdom, Knowledge and Underſtanding, which they have attained unto by reaſon of their great reading and acquain<g ref="char:EOLhyphen"/>tance in the Originals; eſpecially if we conſider that we are not under</hi> Hea<g ref="char:EOLhyphen"/>then <hi>Emperours, but</hi> Chriſtian <hi>Magiſtrates, whom in duty we are bound to obey, as the Apoſtle ſaith,</hi> Submit your ſelves to every Ordinance of man for the Lord's ſake, &amp;c. <hi>If after all this we ſhall remain as before, it behoveth all his</hi> Majeſties <hi>Officers to put the Laws in Execution; and therefore</hi> Church-Wardens <hi>look to your charge, take notice who are abſent at the Prayers of the Church, make your Preſentment, I'le put to my hand as by duty I am bound.</hi> Well done Sir <hi>John Prieſt,</hi> you have made a fair ſpeech. Well Wife, have a little patience and give him but halter enough, he will hang himſelf, or give himſelf ſuch a fall as never Jacka<g ref="char:EOLhyphen"/>napes had.</p>
+               <p>
+                  <hi>Neighbours,</hi> ſaith John, <hi>I have received orders from my Lord Biſhop, who tells me that it is his Majeſties will and pleaſure that Children ſhould be Catechized, I pray you ſend your Children; the next Sunday I intend to begin at two of the clock: The neglect whereof hath been the cauſe of ſo much</hi> He<g ref="char:EOLhyphen"/>reſy, Schiſm, <hi>and</hi> Sedition <hi>as hath been among us, the Youth having not been inſtructed in the right Principles of Religion.</hi>
+               </p>
+               <p>The time being come, ſaith John, <hi>Where be the Youths that come to be Catechized?</hi> Ready quoth the <hi>Holy-water diſhclout,</hi> the Clerk.</p>
+               <p>Queſt. <hi>What is your name? Anſw.</hi> T. B.</p>
+               <p>
+                  <hi>Let me hear you ſay your Creed.</hi>
+               </p>
+               <p>I believe in God, the Father Almighty, &amp;c.</p>
+               <p>Q. <hi>Why do you ſay, I believe, and not we believe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe every man muſt be ſaved by his own Faith.</p>
+               <p>
+                  <hi>Good Boy,</hi> ſaith John, <hi>'twas well anſwered. You hear what he ſaith,</hi> That every man muſt be ſaved by his own Faith: <hi>And this ſerves to reprove and condemn the Church of</hi> Rome, <hi>who hold that a man may be ſaved by an Implicit Faith, and this very Faith, ſay they, drove the Devil away from the</hi>
+                  <pb n="39" facs="tcp:99201:24"/> Collier. <hi>The Devil asked the Collier,</hi> how he did believe? <hi>he anſwered,</hi> As the Church believes. <hi>And how doth the Church believe?</hi> As I be<g ref="char:EOLhyphen"/>lieve. <hi>At which the Devil departed. Whereas we know that every man muſt be ſaved by his own Faith.</hi> O Woman, great is thy Faith, be it unto thee as Thou believeſt: <hi>not as others believe. And Faith is a perſwaſion of the heart, grounded upon the Promiſes of God, not upon Churches and Councils.</hi>
+               </p>
+               <p>
+                  <hi>The Papiſts tell us that ſuch General Councils decreed ſuch a thing, and ſuch Learned-men and Fathers were of ſuch an Opinion: We know that Churches have erred, and General Councils, as the Council of</hi> Nice, <hi>con<g ref="char:EOLhyphen"/>ſiſting of three hundred and eighteen Biſhops; witneſs</hi> Paphnutius. <hi>It is not humane Learning that opens the eyes of the blind, that is the proper work of Chriſt. The Learnedſt men have been the greateſt Hereticks.</hi> Hereſie <hi>(as one ſaith)</hi> is a Baſtard, bego: between a Learned head, and an Un<g ref="char:EOLhyphen"/>ſanctified heart. Paul <hi>accounted his Learning among his</hi> [all things] <hi>but Dung.</hi> Where is the Diſputer of this world? Apollos <hi>an eloquent man, inſtructed by</hi> Aquilla <hi>and</hi> Priſcilla, <hi>two poor Tent-makers. And Christ re<g ref="char:EOLhyphen"/>vealed himſelf to poor Fiſher-men and Shepherds.</hi> I thank thee O Father, that thou haſt hid theſe things from the wiſe and prudent, and haſt re<g ref="char:EOLhyphen"/>vealed them unto babes and ſucklings.</p>
+               <p>
+                  <hi>Neither muſt we pin our Faith upon other mans ſleeves, no not upon Kings and Princes.</hi> Not many Mighty, not many Noble after the fleſh. <hi>Great men are as ignorant of Chriſt as any. The Princes of this world knew not Chriſt:</hi> If they had known him, they would not have crucified the Lord of Glory. <hi>Nor obey any, further than their Commands conſiſt with God's Commands, &amp;c.</hi> Well done, <hi>John,</hi> for one Article.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife, the ſubſtance of what <hi>John Prieſt</hi> hath ſaid, I have heard delivered by ſome of them, and can name the perſons; yea, the exam<g ref="char:EOLhyphen"/>ple of the <hi>Collier</hi> for inſtance. Prethee ſpeak thy mind, wife, may not this go for a fall at footbal?</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Truly Husband, he hath overthrown what he ſaid before: But good Husband give over talking for this time, I begin to be ſleepy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Hold a very little more and I will tell you this ſhort paſſage, of which I was credibly informed. In <hi>Katherine Coleman</hi> Pariſh in <hi>London,</hi> a <hi>Dutchman,</hi> a <hi>Jew,</hi> and a <hi>Papiſt</hi> came to pay their Daes (as they call it) but I cannot ſay they came together. But ſaith <hi>John</hi> Prieſt, <hi>Wherefore come not you to Church?</hi> I go to the <hi>Dutch</hi>-Church. <hi>Wherefore come not you to Church?</hi> I am a <hi>Jew. Wherefore come not you?</hi> I am a <hi>Roman</hi>-Catholick. <hi>John</hi> is very kinde, receives his money, and farewell. Then another comes, alſo contented to pay his money; but <hi>Sir John</hi> ſuſpecting him to be ſome ſort of <hi>Phanatick,</hi> ask'd him, <hi>Wherefore come</hi>
+                  <pb n="40" facs="tcp:99201:25"/> 
+                  <hi>not you to Church?</hi> he ſaith but a little; <hi>Come I know what you are, you frequent Private Meetings, you are a Fanatick, I ſhall take a courſe with you, I'le proſecute the Law againſt you;</hi> but very kind to his Countryman the <hi>Roman.</hi> To ſpeak it between our ſelves, they ſay (wife) that there is more favour to be found under the <hi>Turk</hi> than under ſome that profeſs to be Chriſtians.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Husband, I cannot forbear ſleep any longer, the Child hath lugg'd me ſo hard, that unleſs I fetch a nap I ſhall not have any milk for him when he wakes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wife I'le riſe betime in the morning and fetch a halfpeth of Ale, that will recruit you again.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>
+                  <hi>Nay Husband, take two farthings more off the Cupboards head, and bring a pot, that will make us all drink. I muſt turn on my other ſide; pray have a care of the Child, and ſo goodnight Husband.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Goodnight Good-wife.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99201:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
